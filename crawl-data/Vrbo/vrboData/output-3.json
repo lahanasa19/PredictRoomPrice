@@ -1,0 +1,3393 @@
+{
+	"results": {
+		"id": "379d2ab0ff7d948c4db1d58fb667406b",
+		"typeaheadSuggestion": {
+			"uuid": "0f4a28f4-ed94-419a-a72a-e362cbdeb047",
+			"term": "Hanoi, Vietnam",
+			"name": "Hanoi"
+		},
+		"geography": {
+			"lbsId": "0f4a28f4-ed94-419a-a72a-e362cbdeb047",
+			"gaiaId": "6054458",
+			"location": {
+				"latitude": 21.035911,
+				"longitude": 105.839431
+			},
+			"isGeocoded": false,
+			"shouldShowMapCentralPin": true,
+			"name": "Hanoi",
+			"description": "Hanoi, Vietnam",
+			"primaryGeoType": "locality",
+			"breadcrumbs": [
+				{
+					"name": "Asia",
+					"countryCode": null,
+					"location": {
+						"latitude": 34.047863,
+						"longitude": 100.619652
+					},
+					"primaryGeoType": "continent"
+				},
+				{
+					"name": "Vietnam",
+					"countryCode": "VN",
+					"location": {
+						"latitude": 14.058324,
+						"longitude": 108.277199
+					},
+					"primaryGeoType": "country"
+				}
+			]
+		},
+		"propertyRedirectUrl": null,
+		"destination": {
+			"breadcrumbs": [
+				{
+					"name": "Home",
+					"url": "https://www.vrbo.com/vacation-rentals"
+				},
+				{
+					"name": "Vietnam",
+					"url": "https://www.vrbo.com/vacation-rentals/asia/vietnam"
+				},
+				{
+					"name": "Hanoi",
+					"url": "https://www.vrbo.com/vacation-rentals/asia/vietnam/hanoi"
+				}
+			]
+		},
+		"destinationMessage": {
+			"iconTitleText": {
+				"title": "Need flexibility? We’ve got you.{NEW_LINE_PLACEHOLDER}",
+				"message": "Some places let you cancel for free closer to your check-in date. Check the property’s policy for details.",
+				"icon": "DELAY_REFUND",
+				"messageValueType": "PLAN_FOR_PEACE_OF_MIND",
+				"link": null
+			},
+			"iconText": null
+		},
+		"resultCount": 500,
+		"filterGroups": [
+			{
+				"groupInfo": {
+					"name": "Popular",
+					"id": "13"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "74",
+							"name": "House",
+							"refineByQueryArgument": "filter:74",
+							"description": null,
+							"groupId": "13"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "92",
+							"name": "Apartment or condo",
+							"refineByQueryArgument": "filter:92",
+							"description": null,
+							"groupId": "13"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "83",
+							"name": "Villa",
+							"refineByQueryArgument": "filter:83",
+							"description": null,
+							"groupId": "13"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "80",
+							"name": "Studio",
+							"refineByQueryArgument": "filter:80",
+							"description": null,
+							"groupId": "13"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "72",
+							"name": "Guest house",
+							"refineByQueryArgument": "filter:72",
+							"description": null,
+							"groupId": "13"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "79",
+							"name": "Resort",
+							"refineByQueryArgument": "filter:79",
+							"description": null,
+							"groupId": "13"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Price",
+					"id": "26"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "1023",
+							"name": "Has Updated Price",
+							"refineByQueryArgument": "filter:1023",
+							"description": null,
+							"groupId": "26"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Rooms & spaces",
+					"id": "24"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "99",
+							"name": "Kitchen",
+							"refineByQueryArgument": "filter:99",
+							"description": null,
+							"groupId": "24"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "114",
+							"name": "Dining Room",
+							"refineByQueryArgument": "filter:114",
+							"description": null,
+							"groupId": "24"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "115",
+							"name": "Living Room",
+							"refineByQueryArgument": "filter:115",
+							"description": null,
+							"groupId": "24"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "116",
+							"name": "Outdoor space",
+							"refineByQueryArgument": "filter:116",
+							"description": null,
+							"groupId": "24"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Free Cancellation",
+					"id": "22"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "108",
+							"name": "Free cancellation",
+							"refineByQueryArgument": "filter:108",
+							"description": "View properties that offer free cancellation depending on your trip dates. View cancellation policies for details.",
+							"groupId": "22"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Features & amenities",
+					"id": "1"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "24",
+							"name": "Private pool",
+							"refineByQueryArgument": "filter:24",
+							"description": "Find a place with a pool all to yourself.",
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "23",
+							"name": "Pool",
+							"refineByQueryArgument": "filter:23",
+							"description": "These places have access to a pool.",
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "13",
+							"name": "Internet or WiFi",
+							"refineByQueryArgument": "filter:13",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "1",
+							"name": "Air conditioning",
+							"refineByQueryArgument": "filter:1",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "21",
+							"name": "Parking available",
+							"refineByQueryArgument": "filter:21",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "109",
+							"name": "Stove",
+							"refineByQueryArgument": "filter:109",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "110",
+							"name": "Dryer",
+							"refineByQueryArgument": "filter:110",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "17",
+							"name": "Washer",
+							"refineByQueryArgument": "filter:17",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "20",
+							"name": "Oven",
+							"refineByQueryArgument": "filter:20",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "12",
+							"name": "Hot tub",
+							"refineByQueryArgument": "filter:12",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "2",
+							"name": "Balcony",
+							"refineByQueryArgument": "filter:2",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "25",
+							"name": "TV",
+							"refineByQueryArgument": "filter:25",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "8",
+							"name": "Garden or backyard",
+							"refineByQueryArgument": "filter:8",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "3",
+							"name": "Bed linens provided",
+							"refineByQueryArgument": "filter:3",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "18",
+							"name": "Microwave",
+							"refineByQueryArgument": "filter:18",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "22",
+							"name": "Patio or deck",
+							"refineByQueryArgument": "filter:22",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "7",
+							"name": "Fireplace",
+							"refineByQueryArgument": "filter:7",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "19",
+							"name": "Outdoor grill",
+							"refineByQueryArgument": "filter:19",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "5",
+							"name": "Dishwasher",
+							"refineByQueryArgument": "filter:5",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "16",
+							"name": "King-sized bed",
+							"refineByQueryArgument": "filter:16",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "14",
+							"name": "Iron and board",
+							"refineByQueryArgument": "filter:14",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "4",
+							"name": "Crib",
+							"refineByQueryArgument": "filter:4",
+							"description": null,
+							"groupId": "1"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "15",
+							"name": "Kids' high chair",
+							"refineByQueryArgument": "filter:15",
+							"description": null,
+							"groupId": "1"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Property reviews",
+					"id": "10"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "95",
+							"name": "★★★★☆ 4+ stars",
+							"refineByQueryArgument": "filter:95",
+							"description": null,
+							"groupId": "10"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10140",
+							"name": "Highly rated for location",
+							"refineByQueryArgument": "filter:10140",
+							"description": "Guests rated the location of these places 4+ stars.",
+							"groupId": "10"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10139",
+							"name": "Highly rated for cleanliness",
+							"refineByQueryArgument": "filter:10139",
+							"description": "Guests rated these places 4+ stars for cleanliness.",
+							"groupId": "10"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "House rules",
+					"id": "2"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "27",
+							"name": "Pets allowed",
+							"refineByQueryArgument": "filter:27",
+							"description": null,
+							"groupId": "2"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "29",
+							"name": "Children welcome",
+							"refineByQueryArgument": "filter:29",
+							"description": "These homes are suitable for children according to owner or manager.",
+							"groupId": "2"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "26",
+							"name": "Events allowed",
+							"refineByQueryArgument": "filter:26",
+							"description": null,
+							"groupId": "2"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "28",
+							"name": "Smoking allowed",
+							"refineByQueryArgument": "filter:28",
+							"description": null,
+							"groupId": "2"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Properties good for",
+					"id": "4"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "43",
+							"name": "Families",
+							"refineByQueryArgument": "filter:43",
+							"description": "Families rated these places 4+ stars or guests recommended them for families.",
+							"groupId": "4"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Neighborhoods",
+					"id": "12"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "6f5806e8-7ff0-41c8-bcdf-7a19a879f1a8",
+							"name": "Hoan Kiem",
+							"refineByQueryArgument": "filter:6f5806e8-7ff0-41c8-bcdf-7a19a879f1a8",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "dc881098-14a4-499d-b519-8af9db5a59aa",
+							"name": "Old Quarter",
+							"refineByQueryArgument": "filter:dc881098-14a4-499d-b519-8af9db5a59aa",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "5ac3b04f-46c6-4fc7-a923-b17c21f30567",
+							"name": "Ba Dinh",
+							"refineByQueryArgument": "filter:5ac3b04f-46c6-4fc7-a923-b17c21f30567",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "7afe451a-11b0-4502-8a25-61f9451a04d0",
+							"name": "Tay Ho",
+							"refineByQueryArgument": "filter:7afe451a-11b0-4502-8a25-61f9451a04d0",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "cfdec449-735c-4099-a033-bd344fd8b6a7",
+							"name": "Nghĩa Đô",
+							"refineByQueryArgument": "filter:cfdec449-735c-4099-a033-bd344fd8b6a7",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "9aa7935d-82bd-4ae6-b863-0bd112beed17",
+							"name": "Cau Giay",
+							"refineByQueryArgument": "filter:9aa7935d-82bd-4ae6-b863-0bd112beed17",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "5cca8822-20ec-4a6e-b288-a2b7541b5619",
+							"name": "Hàng Bài",
+							"refineByQueryArgument": "filter:5cca8822-20ec-4a6e-b288-a2b7541b5619",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "395138c3-ea3f-4956-bc45-c94a32cf7f60",
+							"name": "Ha Dong",
+							"refineByQueryArgument": "filter:395138c3-ea3f-4956-bc45-c94a32cf7f60",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "a849d0c7-c716-439d-8137-30391059cb97",
+							"name": "French Quarter",
+							"refineByQueryArgument": "filter:a849d0c7-c716-439d-8137-30391059cb97",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "42fc17fc-bf51-4a31-9921-97b82f244a97",
+							"name": "Mỹ Đình",
+							"refineByQueryArgument": "filter:42fc17fc-bf51-4a31-9921-97b82f244a97",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "88b5f7f3-1a1f-47c9-9a4b-2fdf4dc927bb",
+							"name": "Dong Da",
+							"refineByQueryArgument": "filter:88b5f7f3-1a1f-47c9-9a4b-2fdf4dc927bb",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "522ac7a1-84e8-462d-bff1-09cccf46f62d",
+							"name": "Điện Biên",
+							"refineByQueryArgument": "filter:522ac7a1-84e8-462d-bff1-09cccf46f62d",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "cde1d986-abd2-4d9e-aa24-5270ad95f607",
+							"name": "Trúc Bạch",
+							"refineByQueryArgument": "filter:cde1d986-abd2-4d9e-aa24-5270ad95f607",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "6fbe6ec3-6c13-43fa-8f44-6491859aa4f2",
+							"name": "Hai Ba Trung",
+							"refineByQueryArgument": "filter:6fbe6ec3-6c13-43fa-8f44-6491859aa4f2",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "6d539a66-ac92-458d-97f1-26ddbdbcbc2b",
+							"name": "Hoang Mai",
+							"refineByQueryArgument": "filter:6d539a66-ac92-458d-97f1-26ddbdbcbc2b",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "0312322b-85f1-4652-8a4e-44e8cd0f2446",
+							"name": "Từ Liêm",
+							"refineByQueryArgument": "filter:0312322b-85f1-4652-8a4e-44e8cd0f2446",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "f532380b-a92e-4ff6-ba7f-d80539a2fee0",
+							"name": "Thanh Liệt",
+							"refineByQueryArgument": "filter:f532380b-a92e-4ff6-ba7f-d80539a2fee0",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "c128ab8b-9c95-40c2-be58-c9f35df6f12e",
+							"name": "Quảng An",
+							"refineByQueryArgument": "filter:c128ab8b-9c95-40c2-be58-c9f35df6f12e",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "03d4e600-5300-4ec2-858f-b82a3c802c11",
+							"name": "Bac Tu Liem",
+							"refineByQueryArgument": "filter:03d4e600-5300-4ec2-858f-b82a3c802c11",
+							"description": null,
+							"groupId": "12"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "b0b9e686-3bb9-42c5-9d5f-616046afeba6",
+							"name": "Thanh Xuan",
+							"refineByQueryArgument": "filter:b0b9e686-3bb9-42c5-9d5f-616046afeba6",
+							"description": null,
+							"groupId": "12"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Location",
+					"id": "3"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "35",
+							"name": "Lake",
+							"refineByQueryArgument": "filter:35",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "30",
+							"name": "Beach",
+							"refineByQueryArgument": "filter:30",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "32",
+							"name": "Beachfront",
+							"refineByQueryArgument": "filter:32",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "42",
+							"name": "Waterfront",
+							"refineByQueryArgument": "filter:42",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "33",
+							"name": "Downtown",
+							"refineByQueryArgument": "filter:33",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "91",
+							"name": "Oceanfront",
+							"refineByQueryArgument": "filter:91",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "37",
+							"name": "Ocean",
+							"refineByQueryArgument": "filter:37",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "31",
+							"name": "Beach view",
+							"refineByQueryArgument": "filter:31",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "36",
+							"name": "Mountains",
+							"refineByQueryArgument": "filter:36",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "41",
+							"name": "Village",
+							"refineByQueryArgument": "filter:41",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "38",
+							"name": "Rural",
+							"refineByQueryArgument": "filter:38",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "39",
+							"name": "Ski-in/ski-out",
+							"refineByQueryArgument": "filter:39",
+							"description": null,
+							"groupId": "3"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "34",
+							"name": "Golf course",
+							"refineByQueryArgument": "filter:34",
+							"description": null,
+							"groupId": "3"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Property type",
+					"id": "6"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "74",
+							"name": "House",
+							"refineByQueryArgument": "filter:74",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "92",
+							"name": "Apartment or condo",
+							"refineByQueryArgument": "filter:92",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "83",
+							"name": "Villa",
+							"refineByQueryArgument": "filter:83",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "72",
+							"name": "Guest house",
+							"refineByQueryArgument": "filter:72",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "79",
+							"name": "Resort",
+							"refineByQueryArgument": "filter:79",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "73",
+							"name": "Hotel",
+							"refineByQueryArgument": "filter:73",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "64",
+							"name": "Cabin",
+							"refineByQueryArgument": "filter:64",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "69",
+							"name": "Cottage",
+							"refineByQueryArgument": "filter:69",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "70",
+							"name": "Estate",
+							"refineByQueryArgument": "filter:70",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "65",
+							"name": "Castle",
+							"refineByQueryArgument": "filter:65",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "75",
+							"name": "Houseboat",
+							"refineByQueryArgument": "filter:75",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "66",
+							"name": "Chalet",
+							"refineByQueryArgument": "filter:66",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "78",
+							"name": "RV",
+							"refineByQueryArgument": "filter:78",
+							"description": null,
+							"groupId": "6"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "62",
+							"name": "Boat",
+							"refineByQueryArgument": "filter:62",
+							"description": null,
+							"groupId": "6"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Nearby activities",
+					"id": "5"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "54",
+							"name": "Shopping",
+							"refineByQueryArgument": "filter:54",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "46",
+							"name": "Cycling",
+							"refineByQueryArgument": "filter:46",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "48",
+							"name": "Golfing",
+							"refineByQueryArgument": "filter:48",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10144",
+							"name": "Spa and wellness",
+							"refineByQueryArgument": "filter:10144",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10142",
+							"name": "Zoo or wildlife viewing",
+							"refineByQueryArgument": "filter:10142",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "49",
+							"name": "Hiking",
+							"refineByQueryArgument": "filter:49",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "47",
+							"name": "Fishing",
+							"refineByQueryArgument": "filter:47",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "55",
+							"name": "Skiing or snowboarding",
+							"refineByQueryArgument": "filter:55",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "57",
+							"name": "Watersports",
+							"refineByQueryArgument": "filter:57",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "58",
+							"name": "Wineries or breweries",
+							"refineByQueryArgument": "filter:58",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "50",
+							"name": "Horseback riding",
+							"refineByQueryArgument": "filter:50",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10143",
+							"name": "Theme parks",
+							"refineByQueryArgument": "filter:10143",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "53",
+							"name": "Scuba diving or snorkeling",
+							"refineByQueryArgument": "filter:53",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "56",
+							"name": "Tennis",
+							"refineByQueryArgument": "filter:56",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10145",
+							"name": "Museums",
+							"refineByQueryArgument": "filter:10145",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10141",
+							"name": "Winter activities",
+							"refineByQueryArgument": "filter:10141",
+							"description": "Enjoy the season with activities like ice skating, snowmobiling, or sledding.",
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "52",
+							"name": "Rock or mountain climbing",
+							"refineByQueryArgument": "filter:52",
+							"description": null,
+							"groupId": "5"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "10146",
+							"name": "Casinos",
+							"refineByQueryArgument": "filter:10146",
+							"description": null,
+							"groupId": "5"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Premier Host",
+					"id": "11"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "97",
+							"name": "Premier Host",
+							"refineByQueryArgument": "filter:97",
+							"description": "The owner or manager of this property consistently provides great experiences for their guests.",
+							"groupId": "11"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Safety",
+					"id": "20"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "100",
+							"name": "Smoke detector",
+							"refineByQueryArgument": "filter:100",
+							"description": null,
+							"groupId": "20"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "101",
+							"name": "Carbon-monoxide detector",
+							"refineByQueryArgument": "filter:101",
+							"description": null,
+							"groupId": "20"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Accessibility",
+					"id": "19"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "85",
+							"name": "Elevator",
+							"refineByQueryArgument": "filter:85",
+							"description": null,
+							"groupId": "19"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "87",
+							"name": "Wheelchair accessible",
+							"refineByQueryArgument": "filter:87",
+							"description": null,
+							"groupId": "19"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Virtual Tour",
+					"id": "16"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "98",
+							"name": "Virtual Tour",
+							"refineByQueryArgument": "filter:98",
+							"description": null,
+							"groupId": "16"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Booking Options",
+					"id": "9"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "89",
+							"name": "Instant Confirmation",
+							"refineByQueryArgument": "filter:89",
+							"description": "Book without waiting for owner approval.",
+							"groupId": "9"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "1022",
+							"name": "Pay later with Affirm",
+							"refineByQueryArgument": "filter:1022",
+							"description": null,
+							"groupId": "9"
+						}
+					}
+				]
+			},
+			{
+				"groupInfo": {
+					"name": "Discounts",
+					"id": "25"
+				},
+				"filters": [
+					{
+						"checked": false,
+						"filter": {
+							"id": "117",
+							"name": "Weekly discount",
+							"refineByQueryArgument": "filter:117",
+							"description": "The host offers a discount for staying 7 nights or longer.",
+							"groupId": "25"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "118",
+							"name": "Monthly discount",
+							"refineByQueryArgument": "filter:118",
+							"description": "The host offers a discount for staying 28 nights or longer.",
+							"groupId": "25"
+						}
+					},
+					{
+						"checked": false,
+						"filter": {
+							"id": "119",
+							"name": "New listing discount",
+							"refineByQueryArgument": "filter:119",
+							"description": null,
+							"groupId": "25"
+						}
+					}
+				]
+			}
+		],
+		"page": 1,
+		"pageSize": 10,
+		"pageCount": 20,
+		"queryUUID": "7a16c61c-3557-46bd-9945-8d5186e9e295",
+		"percentBooked": null,
+		"listings": [
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "Air Conditioning",
+						"id": "10",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					},
+					{
+						"name": "Fireplace",
+						"id": "16",
+						"helpText": null
+					},
+					{
+						"name": "Heater",
+						"id": "18",
+						"helpText": null
+					},
+					{
+						"name": "Parking",
+						"id": "20",
+						"helpText": null
+					},
+					{
+						"name": "Bed linens provided",
+						"id": "22",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/20bd3c36.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/20bd3c36.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/f40e3853.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/f40e3853.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/d08e9344.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/d08e9344.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/be28b877.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/be28b877.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/394e7f22.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/394e7f22.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/436161e3.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/436161e3.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/1727a4b5.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/1727a4b5.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/6e43632c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/6e43632c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/ea9d5610.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/ea9d5610.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/746a7db4.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/746a7db4.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/3c78e3c8.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/3c78e3c8.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/33e738f8.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/33e738f8.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/1172b1f9.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/1172b1f9.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/30ae094e.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/30ae094e.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/cda65cab.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/cda65cab.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/62d7d314.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/62d7d314.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/d79a55bb.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/40000000/39680000/39678200/39678198/d79a55bb.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "121.9078227.8058002",
+				"detailPageUrl": "/9078227ha?unitId=8058002&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 9078227,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 30 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "9078227ha",
+				"propertyMetadata": {
+					"headline": "The Autumn Homestay-LAKE VIEW room, with balcony, next to the WEST LAKE"
+				},
+				"superlativesBadges": [
+					{
+						"id": "6",
+						"helpText": null,
+						"name": "Exceptional! 5/5"
+					}
+				],
+				"unitMetadata": {
+					"unitName": "unit_8058002"
+				},
+				"webRatingBadges": [],
+				"bathrooms": {
+					"full": 2,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "Hotel",
+				"sleeps": 3,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": null
+						},
+						"bedCountDisplay": "1 bed"
+					}
+				},
+				"geoDistance": {
+					"text": "0.9 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/18796bc3-02a1-4b78-ad44-81ecc1521c99\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$22\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$22",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 22,
+						"formattedAmount": "$22",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 5,
+				"reviewCount": 5,
+				"geoCode": {
+					"latitude": 21.0489966,
+					"longitude": 105.8397963
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "Air Conditioning",
+						"id": "10",
+						"helpText": null
+					},
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					},
+					{
+						"name": "TV",
+						"id": "13",
+						"helpText": null
+					},
+					{
+						"name": "Parking",
+						"id": "20",
+						"helpText": null
+					},
+					{
+						"name": "Bed linens provided",
+						"id": "22",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/98903b16.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/98903b16.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/e241d7a2.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/e241d7a2.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/cab33219.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/cab33219.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/1ac175ec.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/1ac175ec.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/bf7fbb09.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/bf7fbb09.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/41309df2.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/41309df2.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/bc75f664.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/bc75f664.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/caac3f40.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/caac3f40.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/84647454.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/84647454.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/657b2292.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/657b2292.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/8a7a4b96.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/8a7a4b96.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/142c881e.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/142c881e.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/38e41220.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/38e41220.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/b0eb4532.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/b0eb4532.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/7afd40b4.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/7afd40b4.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/8144fab9.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/8144fab9.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/4b2e5666.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/4b2e5666.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/b72bcfac.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/b72bcfac.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/3903972c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/3903972c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/f69d4316.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/f69d4316.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/477dfd60.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/477dfd60.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/036a9490.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/036a9490.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/3e183255.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/3e183255.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/3ee7addf.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/88000000/87700000/87694400/87694377/3ee7addf.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "148.9737051.8819339",
+				"detailPageUrl": "/9737051ha?unitId=8819339&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 2,
+					"minStayLow": 2
+				},
+				"listingNumber": 9737051,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "9737051ha",
+				"propertyMetadata": {
+					"headline": "Picaly | Indochine apartment at Oldtown - 5 mins to Hoan Kiem lake"
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_8819339"
+				},
+				"webRatingBadges": [
+					{
+						"id": "108",
+						"helpText": "This property is new to Vrbo, but not new to renting. It’s earned a 5 rating from 2 reviews on other travel sites.",
+						"name": "5.0 rating on other travel sites"
+					}
+				],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "Apartment",
+				"sleeps": 4,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": 431
+						},
+						"bedCountDisplay": "2 beds"
+					}
+				},
+				"geoDistance": {
+					"text": "0.6 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/2756a566-668d-4357-a6bf-31f6ae1058b9\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$27\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$27",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 27,
+						"formattedAmount": "$27",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.03035591,
+					"longitude": 105.84838824
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "Air Conditioning",
+						"id": "10",
+						"helpText": null
+					},
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					},
+					{
+						"name": "TV",
+						"id": "13",
+						"helpText": null
+					},
+					{
+						"name": "Parking",
+						"id": "20",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/3633ec29.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/3633ec29.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/546322f0.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/546322f0.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/bd6bee2c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/bd6bee2c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/0501b484.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/0501b484.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/83db26c0.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/83db26c0.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/52ec958e.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/52ec958e.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/55dd1d8f.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/55dd1d8f.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/38fe9a26.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/38fe9a26.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/2a700ff7.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/2a700ff7.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/6dee2749.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/6dee2749.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/270-affd7df0.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/270-affd7df0.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/0ed55399.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/0ed55399.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/270-4009338c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/32000000/31920000/31918200/31918148/270-4009338c.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "121.7430937.6815551",
+				"detailPageUrl": "/7430937ha?unitId=6815551&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 7430937,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "7430937ha",
+				"propertyMetadata": {
+					"headline": "DIS 20%@Sweet Studio with 1 bedroom and near West Lake - Bamboo House #R302"
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_6815551"
+				},
+				"webRatingBadges": [],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "Apartment",
+				"sleeps": 2,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": 484
+						},
+						"bedCountDisplay": "1 bed"
+					}
+				},
+				"geoDistance": {
+					"text": "2.3 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/67726cc5-7789-470a-96bc-0d4274eed5de\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$35\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$35",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 35,
+						"formattedAmount": "$35",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.06354707,
+					"longitude": 105.8241512
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/b4cf1e5d.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/b4cf1e5d.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/f81b8f32.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/f81b8f32.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/3f0d320c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/3f0d320c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/456f27ad.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/456f27ad.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/e7769840.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/e7769840.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/55273730.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/55273730.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/f18c9663.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/f18c9663.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/6bfbb800.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/6bfbb800.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/858fa4ba.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/858fa4ba.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/7c179d0a.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/7c179d0a.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/dedcf504.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/dedcf504.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/280dfe5e.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/280dfe5e.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/49a46efb.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/49a46efb.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/01459f02.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/01459f02.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/088c9aba.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/088c9aba.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/66c07ad5.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/66c07ad5.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/09846d17.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/09846d17.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/48579597.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/48579597.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/82e33ecd.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/82e33ecd.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/9d433ad0.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/9d433ad0.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/ae62f03d.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/ae62f03d.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/1dfdc0e2.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/1dfdc0e2.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/25a6f350.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34660000/34651800/34651711/25a6f350.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "121.4861703.5879027",
+				"detailPageUrl": "/4861703ha?unitId=5879027&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 4861703,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "4861703ha",
+				"propertyMetadata": {
+					"headline": "Lagom - 2 bedroom apartment in central Hanoi"
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_5879027"
+				},
+				"webRatingBadges": [],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 2,
+				"propertyType": "House",
+				"sleeps": 5,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": null
+						},
+						"bedCountDisplay": null
+					}
+				},
+				"geoDistance": {
+					"text": "1.4 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/726f73c3-cdc4-4813-ba3d-674dcc388aa2\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$35\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$35",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 35,
+						"formattedAmount": "$35",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 4,
+				"reviewCount": 1,
+				"geoCode": {
+					"latitude": 21.02402335,
+					"longitude": 105.85246702
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "Air Conditioning",
+						"id": "10",
+						"helpText": null
+					},
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/688ae115.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/688ae115.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/39f58890.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/39f58890.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/d89c52a1.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/d89c52a1.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/383238ce.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/383238ce.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/8cd610ae.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/8cd610ae.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/e4c00fdb.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/e4c00fdb.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/134614c7.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/134614c7.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/be5575c5.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/60000000/59060000/59054900/59054835/be5575c5.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "148.9502873.8582367",
+				"detailPageUrl": "/9502873ha?unitId=8582367&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 9502873,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "9502873ha",
+				"propertyMetadata": {
+					"headline": "Bi Eco Suites Hanoi"
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_8582367"
+				},
+				"webRatingBadges": [],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "House",
+				"sleeps": 2,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": null
+						},
+						"bedCountDisplay": null
+					}
+				},
+				"geoDistance": {
+					"text": "0.3 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/c9928c56-0633-4cb4-8262-7535e4dbbda2\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$32\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$32",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 32,
+						"formattedAmount": "$32",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.03138198,
+					"longitude": 105.8378127
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/dff1c37d.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/dff1c37d.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/d97fb4ce.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/d97fb4ce.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/6c20ea38.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/6c20ea38.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/9b38687c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/9b38687c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/fdfc0aec.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/fdfc0aec.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/673f33cd.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/673f33cd.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/ac1c29d5.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/94000000/93280000/93273500/93273423/ac1c29d5.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "148.9822442.8905735",
+				"detailPageUrl": "/9822442ha?unitId=8905735&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 9822442,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "9822442ha",
+				"propertyMetadata": {
+					"headline": "Heart of Old Quarter With Projector, Lovely View"
+				},
+				"superlativesBadges": [
+					{
+						"id": "53",
+						"helpText": "Be one of the first three guests to stay here and get this reduced nightly rate from the owner or manager. Discount already applied.",
+						"name": "New listing discount"
+					},
+					{
+						"id": "48",
+						"helpText": null,
+						"name": "New listing"
+					}
+				],
+				"unitMetadata": {
+					"unitName": "Room"
+				},
+				"webRatingBadges": [],
+				"bathrooms": {
+					"full": 0,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "Apartment",
+				"sleeps": 3,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": null
+						},
+						"bedCountDisplay": "2 beds"
+					}
+				},
+				"geoDistance": {
+					"text": "0.9 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/e14d34f9-cf48-4a54-8948-13a6d5f6d1e8\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$17\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$17",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 17,
+						"formattedAmount": "$17",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.03571717,
+					"longitude": 105.85518774
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "Air Conditioning",
+						"id": "10",
+						"helpText": null
+					},
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					},
+					{
+						"name": "TV",
+						"id": "13",
+						"helpText": null
+					},
+					{
+						"name": "Washer & Dryer",
+						"id": "17",
+						"helpText": null
+					},
+					{
+						"name": "Parking",
+						"id": "20",
+						"helpText": null
+					},
+					{
+						"name": "Bed linens provided",
+						"id": "22",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/16393777.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/16393777.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/c4e58c6c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/c4e58c6c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/f6eb7851.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/f6eb7851.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/a7737be5.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/a7737be5.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/6ad9de09.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/6ad9de09.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/a255418c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/a255418c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/d3752182.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/d3752182.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/ad225fc6.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/ad225fc6.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/cbb4d0f1.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/cbb4d0f1.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/ad4c95e3.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/ad4c95e3.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/b41c42f7.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/b41c42f7.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/5aa42f37.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/5aa42f37.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/c4cb3460.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/c4cb3460.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/657bab89.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/657bab89.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/a746c28c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/a746c28c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/c0c54b39.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/c0c54b39.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/8b7b35bd.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/8b7b35bd.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/f511f6da.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/f511f6da.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/763c55fd.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/763c55fd.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/fbf19851.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/fbf19851.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/b66f35bc.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/b66f35bc.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/9ced3afb.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/9ced3afb.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/47e37c6d.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/47e37c6d.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/b8e123a3.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/b8e123a3.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/d4567835.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/d4567835.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/09f51aaf.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/09f51aaf.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/1bfa7864.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/1bfa7864.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/33087405.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/34000000/33160000/33151900/33151877/33087405.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "121.7508220.6920689",
+				"detailPageUrl": "/7508220ha?unitId=6920689&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 7508220,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "7508220ha",
+				"propertyMetadata": {
+					"headline": "Big Room Big Terrace-Em Am Homestay Ha Noi"
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_6920689"
+				},
+				"webRatingBadges": [
+					{
+						"id": "108",
+						"helpText": "This property is new to Vrbo, but not new to renting. It’s earned a 5 rating from 1 reviews on other travel sites.",
+						"name": "5.0 rating on other travel sites"
+					}
+				],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "House",
+				"sleeps": 6,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": 323
+						},
+						"bedCountDisplay": "3 beds"
+					}
+				},
+				"geoDistance": {
+					"text": "3 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/ff0e2863-b7bd-4be3-b429-7e45474bc8bb\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$46\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$46",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 46,
+						"formattedAmount": "$46",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.075511,
+					"longitude": 105.82240000000002
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "Air Conditioning",
+						"id": "10",
+						"helpText": null
+					},
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					},
+					{
+						"name": "TV",
+						"id": "13",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/b47138c8.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/b47138c8.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/09d40317.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/09d40317.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/df640ea0.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/df640ea0.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/6c4fa849.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/6c4fa849.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/9938f56a.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/9938f56a.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/2a0e24e7.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/2a0e24e7.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/bca9a4b9.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/bca9a4b9.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/1d00e66e.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/1d00e66e.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/8de5f11d.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/8de5f11d.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/3752cb33.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/3752cb33.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/d96c90f0.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/d96c90f0.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/543d3dd3.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/543d3dd3.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/d239a50a.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/d239a50a.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/5bc8308d.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/5bc8308d.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/c40fcd5b.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/c40fcd5b.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/f0efdb0c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/f0efdb0c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/edc2baf8.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/edc2baf8.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/26ec398f.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/26ec398f.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/684791f0.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/35000000/34670000/34665000/34664938/684791f0.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "121.7475761.6876404",
+				"detailPageUrl": "/7475761ha?unitId=6876404&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 7475761,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "7475761ha",
+				"propertyMetadata": {
+					"headline": "Deluxe Double  room in the heart of the old quarter "
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_6876404"
+				},
+				"webRatingBadges": [],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "Hotel",
+				"sleeps": 2,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": null
+						},
+						"bedCountDisplay": "1 bed"
+					}
+				},
+				"geoDistance": {
+					"text": "0.5 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/eff443d1-a51e-49ee-af1f-37e3329ace69\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$45\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$45",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 45,
+						"formattedAmount": "$45",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.02768514,
+					"longitude": 105.84277889
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "No Smoking",
+						"id": "11",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/61ab8470.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/61ab8470.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/8260ea58.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/8260ea58.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/5292778c.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/5292778c.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/bbf4ba1f.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/bbf4ba1f.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/74169055.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/74169055.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/46a4e00b.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/37000000/36180000/36178600/36178597/46a4e00b.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "121.7690920.7155366",
+				"detailPageUrl": "/7690920ha?unitId=7155366&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 7690920,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "7690920ha",
+				"propertyMetadata": {
+					"headline": "Ney's Luxury 1BR Apt @Vinhomes Metropolis"
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_7155366"
+				},
+				"webRatingBadges": [
+					{
+						"id": "108",
+						"helpText": "This property is new to Vrbo, but not new to renting. It’s earned a 5 rating from 2 reviews on other travel sites.",
+						"name": "5.0 rating on other travel sites"
+					}
+				],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "Apartment",
+				"sleeps": 2,
+				"petsAllowed": false,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": null
+						},
+						"bedCountDisplay": null
+					}
+				},
+				"geoDistance": {
+					"text": "1.7 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/8c69c9a3-efd7-48a7-a6cb-628d9e816ccf\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$65\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$65",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 65,
+						"formattedAmount": "$65",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.03019669,
+					"longitude": 105.81727318
+				}
+			},
+			{
+				"virtualTourBadge": null,
+				"amenitiesBadges": [
+					{
+						"name": "Pets Welcome",
+						"id": "9",
+						"helpText": null
+					},
+					{
+						"name": "Air Conditioning",
+						"id": "10",
+						"helpText": null
+					},
+					{
+						"name": "Internet",
+						"id": "12",
+						"helpText": null
+					},
+					{
+						"name": "TV",
+						"id": "13",
+						"helpText": null
+					},
+					{
+						"name": "Satellite or Cable",
+						"id": "15",
+						"helpText": null
+					},
+					{
+						"name": "Washer & Dryer",
+						"id": "17",
+						"helpText": null
+					},
+					{
+						"name": "Parking",
+						"id": "20",
+						"helpText": null
+					}
+				],
+				"images": [
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/b5331877.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/b5331877.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/1dbae172.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/1dbae172.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/2bf56787.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/2bf56787.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/0d05b229.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/0d05b229.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/c43e4513.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/c43e4513.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/7a7193b1.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/7a7193b1.c9.jpg",
+						"mab": null
+					},
+					{
+						"altText": null,
+						"c6_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/aad36dd6.c6.jpg",
+						"c9_uri": "https://media.vrbo.com/lodging/39000000/38440000/38439300/38439220/aad36dd6.c9.jpg",
+						"mab": null
+					}
+				],
+				"listingId": "121.7925681.7690822",
+				"detailPageUrl": "/7925681ha?unitId=7690822&adultsCount=2&noDates=true",
+				"instantBookable": true,
+				"minStayRange": {
+					"minStayHigh": 1,
+					"minStayLow": 1
+				},
+				"listingNumber": 7925681,
+				"rankedBadges": [
+					{
+						"id": "49",
+						"helpText": "Free cancellation up to 14 days before check-in",
+						"name": "Free cancellation"
+					}
+				],
+				"propertyId": "7925681ha",
+				"propertyMetadata": {
+					"headline": "Davidduc 136G Tran Vu"
+				},
+				"superlativesBadges": [],
+				"unitMetadata": {
+					"unitName": "unit_7690822"
+				},
+				"webRatingBadges": [],
+				"bathrooms": {
+					"full": 1,
+					"half": 0,
+					"toiletOnly": 0
+				},
+				"bedrooms": 1,
+				"propertyType": "House",
+				"sleeps": 2,
+				"petsAllowed": true,
+				"spaces": {
+					"spacesSummary": {
+						"area": {
+							"areaValue": null
+						},
+						"bedCountDisplay": null
+					}
+				},
+				"geoDistance": {
+					"text": "0.6 mi to Hanoi center",
+					"relationType": "PROVIDED_PLACE_LOCATION_CROW_FLIES"
+				},
+				"priceSummary": {
+					"priceAccurate": null,
+					"priceTypeId": "UNKNOWN",
+					"edapEventJson": "{\"unituuid\":\"/units/0000/716ff6c5-3a6e-43ac-be61-9c67aec30337\",\"eventnumadults\":\"2\",\"eventnumchildren\":\"0\",\"eventcurrency\":\"USD\",\"eventpets\":\"false\",\"stramount\":\"$29\",\"perioddescription\":\"avg/night\"}",
+					"formattedAmount": "$29",
+					"roundedFormattedAmount": "",
+					"pricePeriodDescription": "avg/night"
+				},
+				"priceSummarySecondary": null,
+				"priceLabel": null,
+				"prices": {
+					"perNight": {
+						"amount": 29,
+						"formattedAmount": "$29",
+						"roundedFormattedAmount": "",
+						"pricePeriodDescription": "per night"
+					},
+					"total": null,
+					"label": null,
+					"mainPrice": "perNight"
+				},
+				"averageRating": 0,
+				"reviewCount": 0,
+				"geoCode": {
+					"latitude": 21.04606126,
+					"longitude": 105.84140539
+				}
+			}
+		],
+		"pinnedListing": null,
+		"parsedParams": {
+			"q": "hanoi-vietnam",
+			"coreFilters": {
+				"adults": 2,
+				"children": null,
+				"pets": 0,
+				"minBedrooms": 0,
+				"maxBedrooms": null,
+				"minBathrooms": 0,
+				"maxBathrooms": null,
+				"minNightlyPrice": 0,
+				"maxNightlyPrice": null,
+				"minSleeps": null
+			},
+			"dates": null,
+			"sort": null
+		},
+		"fromRecord": 1,
+		"toRecord": 10,
+		"mapViewport": {
+			"neLat": 21.076540753,
+			"neLong": 105.85594603119999,
+			"swLat": 21.022993597,
+			"swLong": 105.8165148888
+		},
+		"expandedGroups": [],
+		"internalTools": null,
+		"globalMessages": {
+			"alert": null,
+			"banner": null
+		}
+	}
+}
