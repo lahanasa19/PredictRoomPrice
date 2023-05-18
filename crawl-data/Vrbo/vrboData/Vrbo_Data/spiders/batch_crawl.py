@@ -19,6 +19,7 @@ raw_file_path =  rawPath + args[1] + ".json"
 amenities_file_path = amenitiesPath + args[1] + ".json"
 csv_file_path = "/home/dell/code/crawl-data/Vrbo/vrboData/Clean_Data/"
 hdfs_file_path = "crawl-data/Vrbo/vrboData/Provinces/"
+
 with open(raw_file_path) as f:
     data = json.load(f)
 
@@ -171,7 +172,7 @@ def save_to_csv(amenities):
             dataSchema['Car_rental'].append(0)
         df = pd.DataFrame(dataSchema)
         
-        df.to_csv(csv_file_path, index=False)
+        df.to_csv(csv_file_path + args[1] + ".csv", index=False)
         print("DataFrame converted and saved as CSV successfully.")
         save_file_to_hdfs(hdfs_file_path+ args[1]+ '/prices.csv', csv_file_path + args[1] +"/prices.csv")
 
@@ -183,7 +184,7 @@ def crawl_amenities():
         process.crawl(VrboDataSpider, url=path, amenitieFileName=args[1])
     process.start() 
 
-if(args[1] == "1") :
+if(args[0] == "1") :
     with open(amenities_file_path) as f:
         amenities = json.load(f)
     save_to_csv(amenities)
