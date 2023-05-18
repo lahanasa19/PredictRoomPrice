@@ -1,0 +1,3 @@
+room_id,url,city,contextualPicturesCount,lat,long,listingObjType,pdpUrlType,name,roomTypeCategory,canInstantBook,weeklyPriceFactor,structuredStayDisplayPrice
+877830575823835228,https://www.airbnb.com.vn/rooms/877830575823835228,Thành phố Sóc Trăng,22,9.6289308,105.9557816,REGULAR,,Nhà Nghỉ Tiến Phát,private_room,False,,/ đêm
+873507766420575906,https://www.airbnb.com.vn/rooms/873507766420575906,Thành phố Sóc Trăng,11,9.586029600000002,105.9793751,REGULAR,,Nhà nghỉ Kiều Phương,private_room,False,,/ đêm

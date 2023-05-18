@@ -1,0 +1,11 @@
+room_id,url,rating,city,contextualPicturesCount,lat,long,listingObjType,pdpUrlType,name,roomTypeCategory,reviewCount,canInstantBook,weeklyPriceFactor,structuredStayDisplayPrice,price,price_full,isSuperHost,isVerified,yearHosting
+28149567,https://www.airbnb.com.vn/rooms/28149567,"4,5",Trà Vinh,14,9.93968,106.27395,REGULAR,,Nhà khách Vilabasi Mekong - Phòng 1,private_room,4,False,,/ đêm,481.803,₫481.803,,,
+35448793,https://www.airbnb.com.vn/rooms/35448793,,Trà Vinh,15,9.95603,106.34732,REGULAR,,Trần Riverside Homestay,private_room,,False,,/ đêm,268.177,₫268.177,False,False,
+35949686,https://www.airbnb.com.vn/rooms/35949686,"3,33",Trà Vinh,10,9.91217,106.31263,REGULAR,,Nhà trọ thuộc sở hữu của gia đình gần thành phố và các điểm du lịch,private_room,3,False,,/ đêm,376.588,₫376.588,,,
+45533935,https://www.airbnb.com.vn/rooms/45533935,,Càng Long,18,9.93591,106.27142,REGULAR,,Bungalow ẩn trong khu vườn xinh đẹp,entire_home,,False,,/ đêm,401.495,₫401.495,,,
+28572408,https://www.airbnb.com.vn/rooms/28572408,,Thành phố Trà Vinh,21,9.96266,106.34398,REGULAR,,Hoài Hiệp Hostel,private_room,,False,,/ đêm,267.664,₫267.664,,,
+22407003,https://www.airbnb.com.vn/rooms/22407003,"5,0",Thành phố Trà Vinh,7,9.91922,106.3307,REGULAR,,Thiên đường của B,private_room,3,False,,/ đêm,347.948,₫347.948,,,
+32794331,https://www.airbnb.com.vn/rooms/32794331,,Trà Vinh,14,9.88722,106.07219,REGULAR,,"Homestay, hành trình khám phá sông Mê Kông",private_room,,False,,/ đêm,360.356,₫360.356,False,False,
+30454360,https://www.airbnb.com.vn/rooms/30454360,,Trà Cú,30,9.72789,106.33275,REGULAR,,Gia đình Khmer Địa phương- 1BR - Chapi Dream Garden House,private_room,1,False,,/ đêm,404.778,₫404.778,False,False,4
+30458240,https://www.airbnb.com.vn/rooms/30458240,,Trà Cú,23,9.72666,106.33237,REGULAR,,Gia đình Khmer địa phương - Sông & cảnh quan vườn cây,shared_room,,False,,/ đêm,404.778,₫404.778,,,
+33644049,https://www.airbnb.com.vn/rooms/33644049,,Thành phố Trà Vinh,8,9.95805,106.34614,REGULAR,,Tran Riverside homestay,private_room,,False,,/ đêm,268.177,₫268.177,False,False,

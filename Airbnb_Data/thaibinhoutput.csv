@@ -1,0 +1,11 @@
+room_id,url,city,contextualPicturesCount,lat,long,listingObjType,pdpUrlType,name,roomTypeCategory,canInstantBook,weeklyPriceFactor,structuredStayDisplayPrice,price,price_full,isSuperHost,isVerified,rating,reviewCount,yearHosting
+48599495,https://www.airbnb.com.vn/rooms/48599495,Thành phố Thái Bình,4,20.44663,106.33547,REGULAR,,Khách Sạn Kim Cương Thái Bình,private_room,False,,/ đêm,399.412,₫399.412,,,,,
+871697587735543927,https://www.airbnb.com.vn/rooms/871697587735543927,Thành phố Thái Bình,5,20.4453,106.32867,REGULAR,,"Cozy private, luxurious room",private_room,False,,/ đêm,,,,,,,
+802834156467042781,https://www.airbnb.com.vn/rooms/802834156467042781,Quỳnh Phụ,10,20.594721842646404,106.4198562375358,REGULAR,,Ngôi nhà bình yên tại Thái Bình,private_room,False,,/ đêm,285.294,₫285.294,False,True,,,
+723424238611800373,https://www.airbnb.com.vn/rooms/723424238611800373,Thành phố Nam Định,9,20.4319711,106.1792747,REGULAR,,Nhà phố truyền thống ở Nam Định,private_room,False,,/ đêm,488.384,₫488.384,False,True,,,
+21652809,https://www.airbnb.com.vn/rooms/21652809,Thành phố Thái Bình,8,20.44293,106.33228,REGULAR,,Nhà tôi ở trung tâm thành phố Thái Bình,private_room,False,,/ đêm,321.187,₫321.187,False,True,"5,0",4,8
+33831250,https://www.airbnb.com.vn/rooms/33831250,Thành phố Thái Bình,10,20.45041,106.33526,REGULAR,,Cho thue nha 297 ly bon thai binh,entire_home,False,,/ đêm,267.664,₫267.664,,,,,
+16006030,https://www.airbnb.com.vn/rooms/16006030,Nam Dinh,25,20.33851,106.24175,REGULAR,,Nam Định Pro - nông thôn đẹp,entire_home,False,,/ đêm,342.353,₫342.353,,,,,
+41290527,https://www.airbnb.com.vn/rooms/41290527,Thành phố Nam Định,3,20.43215,106.18805,REGULAR,,Phòng,private_room,False,,/ đêm,332.625,₫332.625,,,,,
+44560677,https://www.airbnb.com.vn/rooms/44560677,Thành phố Nam Định,7,20.43648,106.18894,REGULAR,,đồ đạc và tiện nghi hiện đại,entire_home,False,,/ đêm,483.131,₫483.131,,,,,
+35707399,https://www.airbnb.com.vn/rooms/35707399,Thành phố Nam Định,5,20.41438,106.16077,REGULAR,,Nhà thân thiện Thanh Oanh,private_room,False,,/ đêm,273.882,₫273.882,False,False,,,

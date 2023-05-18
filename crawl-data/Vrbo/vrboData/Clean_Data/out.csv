@@ -1,0 +1,607 @@
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,Welcome to Bon Home!,0,109.23197353,0,True,0,31,0,0,0,0,0,0,13.77854401,0,0,$39,0,0,0,0,1,0,0,Haiphong,$39,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,1,Chang Lia Homestay Qui Nhon,0,109.20792237,0,True,0,20,0,0,0,0,0,0,13.74857327,0,0,$58,0,0,0,0,1,0,0,Haiphong,$58,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,60,0,Quy Nhon Hotel - The beautiful beach hotel,0,109.2381361,0,True,0,7,0,0,0,0,0,0,13.77379112,0,0,$40,0,0,0,0,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,6,1,Dorm Room for 5_Yen Vy 32 Hotel,0,109.21352695,1,True,0,8,1,0,0,0,0,0,13.7499209,0,1,$5,0,1,1,1,1,0,0,Haiphong,$5,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,Newday Travel Condotel- Căn Hộ FLC Sea Tower Quy Nhơn,0,109.21582213,0,True,0,10,0,0,0,0,0,0,13.75409382,0,0,$35,0,0,0,1,1,0,0,Haiphong,$35,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Apartment,0,0,0,0,8,0,2 bedroom Suit In Altara Quy Nhơn,0,109.2404856,1,True,0,24,1,0,0,0,1,0,13.7734362,0,1,$94,0,0,1,1,1,0,1,Haiphong,$94,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,4,0,FLC Sea Tower Quy Nhon Enochnguyen Apartment,0,109.2126441,0,True,0,43,0,0,0,0,0,0,13.7562112,0,1,$60,0,0,1,1,1,0,0,Haiphong,$60,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,0,Green Villa House (Golden sky villa),0,109.21701200000008,0,False,0,10,0,0,0,0,0,0,13.7550692,0,0,$84,0,0,0,1,1,0,0,Haiphong,$84,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,"Room for rent, long term_Yen Vy 32 Hotel",0,109.21342364,0,False,0,10,0,0,0,0,0,0,13.75148205,0,0,$10,0,0,0,0,1,0,0,Haiphong,$10,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,3,0,Biển Hostel,0,109.2266518,1,True,0,27,1,0,0,0,1,0,13.76642375,0,1,$21,0,1,1,1,1,0,0,Haiphong,$21,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,20,0,"Thành Đạt 2 Hostel, full house, 2minutes walk to the beach",0,109.24322196,0,True,0,26,0,0,0,0,0,0,13.77436973,0,1,$63,0,0,0,1,1,0,0,Haiphong,$63,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,Private loft room with bathroom inside,0,109.22799849,0,True,0,14,0,0,0,0,0,0,13.77004991,0,1,$11,0,0,1,1,1,0,0,Haiphong,$11,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,1,"Coastal Quy Nhon Homestay, near beach, cozy",0,109.21077319999996,0,True,0,7,0,0,0,0,0,0,13.7480577,0,0,$64,0,0,0,1,1,0,0,Haiphong,$64,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,8,0,The Buom House - Life.Love.Art | 500m to the beach,0,109.22063285,0,True,0,19,0,0,0,0,0,0,13.76670784,0,0,$52,0,0,0,0,1,0,0,Haiphong,$52,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,6,1,1 minutes to the theme Sea! Family-sized condo with modern amenities,0,109.21513276,0,True,0,28,0,0,0,0,0,0,13.75310482,0,0,$50,0,0,0,1,1,0,0,Haiphong,$50,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,8,0,Golden Sky Homestay 1,0,109.21701200000008,0,True,0,14,0,0,0,0,0,0,13.7550692,0,0,$82,0,0,0,0,1,0,0,Haiphong,$82,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,BnB Homestay awaits,0,109.21418932,0,True,0,6,0,0,0,0,0,0,13.74458797,0,0,$30,0,0,0,0,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,20,0,TU CASA HOSTEL - A COZY AND FRIENDLY HOSTEL,0,109.21987728,0,False,0,13,0,0,0,0,0,0,13.76479187,0,1,$4,0,0,1,1,1,0,0,Haiphong,$4,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,1,Green Villa Homestay,0,109.21982301,0,True,0,12,0,0,0,0,0,0,13.75258823,0,1,$82,0,0,1,1,1,0,0,Haiphong,$82,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,2,0,MISA HOUSE | CLOSE TO EVERYTHING | 2BR | HIGH VIEW,0,109.22755322,0,True,0,14,0,0,0,0,0,0,13.7784098,0,0,$34,0,0,0,0,1,0,0,Haiphong,$34,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,1,Cozy Apartment 5 minutes to Vsip 1,0,106.70661900000005,0,True,0,15,0,0,0,0,0,0,10.9480018,0,0,$20,0,0,0,1,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,"Tropical backyard & Luxury wooden villa, 5 min to local night market, 10 to Mall",0,106.69136766,0,True,0,35,0,0,2,0,0,0,10.90618292,0,0,$400,1,0,0,1,1,0,0,Haiphong,$400,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,12,1,Sunset Side Villa (Saigon River View),0,106.69319479,0,False,0,16,0,0,0,0,0,0,10.90707195,0,0,$420,0,0,0,1,1,0,0,Haiphong,$420,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,3,1,✰MODERN Oasis ✰Balcony/Cafes/CITY CENTER✰,0,106.68968658,0,True,0,7,0,0,0,0,1,0,11.03267662,0,1,$39,0,0,1,1,1,0,1,Haiphong,$39,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,"MODERN 1BR APT IN VIET-SING TOWN, VSIP1, BD",0,106.72726466,0,False,0,9,0,0,0,0,0,0,10.93888042,0,0,$26,0,0,0,0,1,0,0,Haiphong,$26,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,99,1,Modern suite with ensuite bathroom/ TOP LOCATION,0,106.67426171,0,True,0,9,0,0,0,0,0,0,10.96417685,0,1,$29,0,1,1,1,1,0,0,Haiphong,$29,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,3,1,Bright Studio at Central of Thu Dau Mot,0,106.66160747,0,True,0,7,0,0,0,0,1,0,10.9725549,0,1,$36,0,0,0,0,1,0,1,Haiphong,$36,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,2Bd Luxury Apartment Free Gym & Pool.,0,106.66856826,0,True,0,12,0,0,0,0,0,0,10.96835025,0,0,$60,0,0,0,0,1,0,0,Haiphong,$60,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,15,1,La Maison Villa - Villa for Filming,0,106.7115142,0,True,0,16,0,0,0,0,1,0,10.9253137,0,1,$320,0,1,1,1,1,0,1,Haiphong,$320,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,4,1,Căn Hộ Cao Cấp Charm City Nội Khu Trung Tâm TM VinCom,0,106.74204472,0,True,0,6,0,0,0,0,1,0,10.90761275,0,1,$50,0,0,1,1,1,0,1,Haiphong,$50,0,1,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,0,Private luxury villa with pool,0,108.24821656801556,0,True,0,24,0,0,5,0,0,0,10.969782625074686,0,0,$160,2,0,0,1,1,0,0,Haiphong,$160,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,Apartment in the city center,0,108.09729105,0,True,0,10,0,0,0,0,0,0,10.93942501,0,0,$40,0,0,1,1,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,0,0,0,12,1,Biệt thự nghỉ dưỡng Mũi Né - Sea Villa D3 - Resort Villa Muine Domaine,0,108.17334931,1,True,0,37,1,0,1,0,1,0,10.93885301,0,1,$240,1,0,1,1,1,0,1,Haiphong,$240,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,1,ALLEZBOO HOMESTAY-FRENCH COLONIAL-STYLE RESORT,0,108.189982,0,True,0,42,0,0,0,0,1,0,10.93908,0,1,$148,0,0,1,1,1,0,1,Haiphong,$148,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,8,0,The House with 3 bedrooms and big garden,0,108.2724382869385,1,True,0,42,1,0,5,0,1,0,10.944452795215668,0,1,$90,1,0,1,1,1,0,1,Haiphong,$90,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,Stunning Eco-Friendly Retreat in Nature (Pet-Friendly!),0,108.24588684,0,True,0,16,0,0,0,0,0,0,10.96960162,0,1,$71,0,0,0,1,1,0,0,Haiphong,$71,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,4,0,Quadruple room - Hoang Sang Homestay,0,108.29093452,0,True,0,9,0,0,0,0,0,0,10.93017596,0,0,$29,0,0,0,1,1,0,0,Haiphong,$29,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,4,0,Family Room - Bot Bien Homestay,0,108.29162171,0,True,0,7,0,0,0,0,0,0,10.93485881,0,0,$26,0,0,0,1,1,0,0,Haiphong,$26,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,9,0,Fisherman Village Boutique Villas - Beachfront,0,107.64766995,0,True,0,41,0,0,0,0,0,0,10.60432052,0,0,$134,0,0,0,1,1,0,0,Haiphong,$134,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,6,1,3 Bedrooms House and big garden,0,108.25426163068846,0,True,0,23,0,0,5,0,1,0,10.952964103350949,0,1,$90,1,0,1,1,1,0,1,Haiphong,$90,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,1,Stunning Eco-Friendly Retreat in Nature (Pet-Friendly!),0,108.24588684,0,True,0,16,0,0,0,0,1,0,10.96960162,0,1,$71,0,0,1,0,1,0,1,Haiphong,$71,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,3,0,Nguyens Villa. It offers a very natural.,0,107.75488963,0,True,0,43,0,0,0,0,0,0,10.68707126,0,0,$135,0,0,0,0,1,0,0,Haiphong,$135,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Villa,0,1,0,0,1,1,Sunny Tropical Villa,0,108.16355948,0,True,0,8,0,0,0,0,1,0,10.93692332,0,1,$88,0,0,1,1,1,0,1,Haiphong,$88,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,1,Ocean Vista flat for rent,0,108.18628323,0,True,0,6,0,0,0,0,1,0,10.93645991,0,1,$58,0,0,1,1,1,0,0,Haiphong,$58,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,Deluxe Double Room - New Wave Homestay,0,108.29410798,0,True,0,9,0,0,0,0,0,0,10.9305368,0,0,$36,0,0,0,1,1,0,0,Haiphong,$36,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,1,Holiday house Phan Thiet for 6 - 10 persons with 3 bedrooms - Holiday house,0,108.24909,0,False,0,20,0,0,0,0,1,0,10.96991,0,0,$147,0,0,0,0,1,0,1,Haiphong,$147,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Victoria Phan Thiet - Beach Front Bugalow,0,108.17642790974276,0,False,0,7,0,0,0,0,0,0,10.936491100552017,0,0,$113,0,0,0,1,1,0,0,Haiphong,$113,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,9,0,Luxury French-Bali inspired paradise,0,108.20633252,0,True,0,18,0,0,0,0,0,0,10.94801915,0,0,"$1,800",0,0,0,1,1,0,0,Haiphong,"$1,800",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,"Apartment  about of us very close the beaches, very convenience for big group",0,108.18550479,0,False,0,20,0,0,0,0,1,0,10.93564807,0,1,$250,0,0,1,0,1,0,1,Haiphong,$250,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,7,0,Victoria Phan Thiet - Family Pool Villa,0,108.17768882,0,False,0,16,0,0,0,0,0,0,10.93243153,0,1,$675,0,0,0,1,1,0,0,Haiphong,$675,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,12,0,Apartment right in the floating market,0,105.73986915,0,True,0,21,0,0,0,0,0,0,10.00485627,0,0,$56,0,0,0,1,1,0,0,Haiphong,$56,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,2,1,Homestay and home-cooked with family,0,105.75414709999995,0,True,0,6,0,0,0,0,0,0,10.0398521,0,1,$22,0,0,1,1,1,0,0,Haiphong,$22,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,5,0,WeeWay homestay  - 5min walk to Ninh Kieu quay,0,105.78235697,0,True,0,8,0,0,0,0,0,0,10.03311882,0,1,$14,0,0,0,1,1,0,0,Haiphong,$14,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,2,1,Double bedroom with balcony,0,105.78614358154108,0,False,0,8,0,0,0,0,0,0,10.048220195277414,0,1,$11,0,0,1,1,1,0,0,Haiphong,$11,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,16,0,A+ Phong Dien view of the Mekong Delta River,0,105.71023665,0,True,0,28,0,0,0,0,0,0,9.98842938,0,0,$149,0,0,0,1,1,0,0,Haiphong,$149,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,2,0,HO GIA AN Home cách chợ nổi 5 phút - KING ROOM,0,105.73981909,0,True,0,9,0,0,0,0,0,0,10.00940628,0,0,$17,0,0,0,1,1,0,0,Haiphong,$17,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,4,1,DUY'S HOME- Rooms for 4 people with bathroom,0,105.7844089,0,True,0,9,0,0,0,0,0,0,10.05053819,0,0,$12,0,0,0,1,1,0,0,Haiphong,$12,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,2,1,B Home - Where you can feel like home!,0,105.77525739,0,True,0,11,0,0,0,0,1,0,10.05000997,0,1,$15,0,0,1,1,1,0,1,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,10,0,🏝D&C Villa 1❤️ FANTASTIC😍The best vacation home,0,105.63118645,0,True,0,25,0,0,0,0,1,0,10.45692871,0,0,$95,0,0,1,1,1,0,0,Haiphong,$95,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Lodge,0,0,0,0,3,0,Sun-soaked |  Vegetarian-Friendly | Breakfast Included,0,105.99799488,0,True,0,34,0,0,0,0,0,0,10.25650984,0,0,$27,0,0,0,0,1,0,0,Haiphong,$27,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,8,1,LiLa Inn - Bukwit Lawang,0,104.98029070000008,0,True,0,13,0,0,0,0,0,0,22.8126586,0,0,$4,0,0,0,1,1,0,0,Haiphong,$4,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,2,0,HaGiang Paradise motorbike &Tours,0,104.9759217930111,0,True,0,19,0,0,0,0,0,0,22.805541787936782,0,0,$3,0,0,1,0,1,0,0,Haiphong,$3,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,1,0,Have Giang motorcycle rentals and tours,0,104.97761492,0,True,0,10,0,0,0,0,0,0,22.8041971,0,0,$3,0,0,0,0,1,0,0,Haiphong,$3,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,5,0,Giac Xua Bed and Breakfast,0,104.99140244,0,True,0,36,0,0,0,0,0,0,22.82578858,0,0,$16,0,0,0,1,1,0,0,Haiphong,$16,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,24,0,Welcome to Ha Giang Creekside Homestay and Hostel,0,104.94082967,0,False,0,11,0,0,0,0,0,0,22.76751735,0,0,$9,0,0,0,1,1,0,0,Haiphong,$9,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,6,0,HaGiang Paradise Hostel & Tours,0,104.97621581611637,0,True,0,11,0,0,0,0,0,0,22.80533478182065,0,0,$3,0,0,0,1,1,0,0,Haiphong,$3,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,1,0,"cao nguyên đá , hoa tam giác mạch",0,105.40893318,0,True,0,35,0,0,0,0,0,0,23.16796002,0,0,$10,0,0,0,1,1,0,0,Haiphong,$10,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,20,1,"I am a local guide,so i can provide the  information tour in my province for you",0,104.97741612,1,True,0,21,1,0,0,0,0,0,22.8019836,0,1,$10,0,0,1,1,1,0,0,Haiphong,$10,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Chalet,0,0,0,0,6,0,Nam Ly Homestay- Meals included,0,104.66070499472048,0,True,0,14,0,0,0,0,0,0,22.68465813337896,0,0,$30,0,0,0,0,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,10,0,Nơi nghỉ lý tưởng tại công viên địa chất toàn cầu cao nguyên đá Đồng Văn,0,105.1350728,0,True,0,18,0,0,0,0,0,0,23.1210858,0,0,$11,0,0,0,1,1,0,0,Haiphong,$11,0,1,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,"Modern, local, convenient for family trip, near city central. Eng/French speaker",0,107.59413691,0,True,0,22,0,0,0,0,1,0,16.47011923,0,1,$13,0,0,1,1,1,0,0,Haiphong,$13,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,3,1,Hillside homestay Hue - Mansion room ,0,107.57312319,0,True,0,23,0,0,5,0,1,0,16.44532012,0,1,$30,1,1,1,1,1,0,1,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,0,0,0,2,1,Lover - Fancy Couple,0,107.57752946,1,True,0,7,1,0,0,0,0,0,16.44506216,0,0,$12,0,0,0,1,1,0,0,Haiphong,$12,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,the tourist apartment has 2 bedrooms and a kitchen.,0,107.60433677,0,True,0,10,0,0,0,0,0,0,16.46125423,0,0,$53,0,0,0,0,1,0,0,Haiphong,$53,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,5,0,"Canary Hotel - Luxury rooms in the Hue City Center - ""Easy walking"" to visit",0,107.59715789999996,0,True,0,9,0,0,0,0,0,0,16.4714192,0,0,$18,0,0,0,0,1,0,0,Haiphong,$18,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,0,Canary Homestay - Alive with your style of living in the heart of Hue City Cente,0,107.58991787483406,0,True,0,11,0,0,0,0,0,0,16.460060090657656,0,0,$58,0,0,0,0,1,0,0,Haiphong,$58,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,4,1,Green House - 2 Deluxe room w/ 5 mins walk to Perfume River,0,107.58666986,1,True,0,28,1,0,0,0,0,0,16.4558736,0,0,$50,0,0,0,1,1,0,0,Haiphong,$50,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,1,"Canary Hotel - ""Cheapest"" rooms in the Hue City Center - ""Easy walking"" to visit",0,107.59715789999996,0,True,0,8,0,0,1,0,1,0,16.4714192,0,1,$11,1,0,1,1,1,0,1,Haiphong,$11,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,"4 guests, 2 beds, 1 bath, a garden",0,107.58240350000004,0,True,0,16,0,0,0,0,0,0,16.4744247,0,1,$27,0,0,0,1,1,0,0,Haiphong,$27,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Guest house,0,0,0,0,1,1,Codostudio  Homestay,0,107.60275905,1,False,0,18,1,0,0,0,1,0,16.46892155,0,1,$15,0,0,1,1,1,0,1,Haiphong,$15,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,9,0,"Entire apartment for 4-6 people. 2 bedrooms, 2 bathrooms and kitchen.",0,107.61735630833434,0,True,0,6,0,0,0,0,0,0,16.463357640477557,0,0,$63,0,0,0,0,1,0,0,Haiphong,$63,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,LA LUZ- A charming gem in the heart of the city - 2BRs- with Balcony++,0,107.59906905,0,True,0,24,0,0,0,0,0,0,16.47313786,0,0,$46,0,0,0,0,1,0,0,Haiphong,$46,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,0,❤️5 BRs HOUSE✔️11pax ❤️HUE☘️Great location,0,107.59457599444272,0,True,0,35,0,0,0,0,0,0,16.467561312594512,0,1,$70,0,1,1,1,1,0,0,Haiphong,$70,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,11,0,Full villa with 4 bedrooms(11 people),0,107.5750507139862,0,True,0,21,0,0,0,0,1,0,16.44221782530918,0,0,$50,0,0,1,1,1,0,1,Haiphong,$50,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,2,0,Hue Garden Ancient House,0,107.57786027,0,False,0,7,0,0,0,0,0,0,16.47666636,0,0,$29,0,0,0,0,1,0,0,Haiphong,$29,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,1,0,CODO HOME garden and a terrace.,0,107.60150529,0,True,0,7,0,0,0,0,0,0,16.47025061,0,0,$23,0,0,0,0,1,0,0,Haiphong,$23,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,10,0,Vu homestay friendly accommodation .Terrace and views . Free parking,0,107.58108762,0,False,0,11,0,0,2,0,0,0,16.4345542,0,0,$10,1,0,0,1,1,0,0,Haiphong,$10,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,HAPPY HOUSE 3-room luxury apartment with full amenities-2.5km from Perfume River,0,107.61741073,0,True,0,8,0,0,0,0,0,0,16.46453949,0,0,$55,0,0,0,1,1,0,0,Haiphong,$55,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,1,1,"2 guest, 1 bed, 1 bath, a garden",0,107.58240350000004,1,True,0,15,1,0,0,0,1,0,16.4744247,0,0,$13,0,0,0,1,1,0,1,Haiphong,$13,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,1,Monstera Homestay,0,107.56957777,1,True,0,9,1,0,0,0,1,0,16.47172606,0,1,$14,0,0,1,1,1,0,1,Haiphong,$14,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,Kypyny House Homestay,0,107.56376267,0,True,0,35,0,0,0,0,0,0,16.43874283,0,0,$16,0,0,0,0,1,0,0,Haiphong,$16,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,2,0,Standard King Room(02 people),0,107.57785688,0,True,0,9,0,0,0,0,0,0,16.44479126,0,0,$9,0,0,0,0,1,0,0,Haiphong,$9,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,16,0,"Canary Hotel-  Great for group (1-16 persons) -""Easy walking"" to visit Hue City",0,107.59715789999996,0,False,0,11,0,0,0,0,1,0,16.4714192,0,0,$11,0,0,1,0,1,0,0,Haiphong,$11,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,1,1,Q GARDEN HOMESTAY VILLA,0,107.60038644,0,True,0,42,0,0,0,0,0,0,16.4686195,0,0,$14,0,0,0,1,1,0,0,Haiphong,$14,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,16,1,Q HOMESTAY GARDEN VILLA  - CITY CENTER,0,107.60136364,0,True,0,48,0,0,0,0,0,0,16.46528341,0,0,$79,0,0,0,1,1,0,0,Haiphong,$79,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,5,1,"Canary Hotel-Room has Balcony with Hue City View - ""Easy walking"" to visit [61]",0,107.59715789999996,0,True,0,9,0,0,0,0,0,0,16.4714192,0,0,$19,0,0,0,1,1,0,0,Haiphong,$19,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,Khanh's Home-Homestay in Hue,0,107.5766464,0,True,0,26,0,0,0,0,0,0,16.4248224,0,0,$40,0,0,0,0,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,8,1,"Thuy Bieu Homestay - Truly Enjoy in Hue city, Vietnam",0,107.53300706,1,False,0,7,1,0,0,0,0,0,16.43796472,0,0,$27,0,0,0,1,1,0,0,Haiphong,$27,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,6,0,HOME 1 - First Floor with 2 bedrooms(6 people),0,107.57776996,0,True,0,21,0,0,0,0,0,0,16.44261958,0,0,$29,0,0,0,0,1,0,0,Haiphong,$29,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,0,CodoHomestay & garden,0,107.60587755,0,False,0,11,0,0,0,0,0,0,16.46619403,0,0,$15,0,0,0,0,1,0,0,Haiphong,$15,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,0,Canary Homestay - Alive with your style of living in the heart of Hue City Cente,0,107.58991787483406,0,True,0,11,0,0,0,0,0,0,16.460060090657656,0,0,$58,0,0,0,0,1,0,0,Haiphong,$58,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,1,"Canary Hotel - ""Cheapest"" rooms in the Hue City Center - ""Easy walking"" to visit",0,107.59715789999996,0,True,0,8,0,0,0,0,0,0,16.4714192,0,1,$15,0,0,0,0,1,0,0,Haiphong,$15,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,1,trufudtrudeynset6aw46ttsetysetysey,0,107.59938536,0,True,0,6,0,0,0,0,0,0,16.46236446,0,1,"$7,000",0,0,0,1,1,0,0,Haiphong,"$7,000",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,3,0,Meditation Studio - Hillside homestay Hue,0,107.57732286679538,0,True,0,10,0,0,0,0,0,0,16.445021085873936,0,0,$26,0,0,0,0,1,0,0,Haiphong,$26,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,1,"Quiet, ancient ambient place",0,107.58240350000004,0,False,0,10,0,0,0,0,1,0,16.4744247,0,1,$27,0,0,1,1,1,0,1,Haiphong,$27,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,3,0,Triple Room with Hill View(03 people),0,107.57358641,0,True,0,15,0,0,0,0,0,0,16.43953179,0,0,$13,0,0,0,0,1,0,0,Haiphong,$13,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,2,1,An Homestay Hue - Train station walking,0,107.58805183,0,False,0,7,0,0,0,0,0,0,16.45511327,0,0,$70,0,0,0,1,1,0,0,Haiphong,$70,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,7,0,DE LA LUNA -A gorgeous gem in the heart of Hue -3BRs-Exclusive Rooftop Garden+++,0,107.60205428,1,True,0,47,1,0,0,0,0,0,16.4702321,0,1,$64,0,0,0,1,1,0,0,Haiphong,$64,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,5,0,HOME 2 - Second Floor with 2 bedrooms(05 people),0,107.57357049,0,True,0,18,0,0,0,0,0,0,16.44057773,0,0,$21,0,0,0,0,1,0,0,Haiphong,$21,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,Promotion Hue Rustic Homestay - Apartment 4 person,0,107.61926192,0,True,0,6,0,0,0,0,0,0,16.46538087,0,0,$55,0,0,0,0,1,0,0,Haiphong,$55,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,6,0,Home away from home,0,107.59665014,0,True,0,12,0,0,0,0,0,0,16.46780562,0,0,$110,0,0,0,1,1,0,0,Haiphong,$110,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,"Canary Hotel - ""Cheapest"" rooms in the Hue City Center - ""Easy walking"" to visit",0,107.59820052,0,True,0,8,0,0,0,0,0,0,16.47368339,0,0,$11,0,0,0,0,1,0,0,Haiphong,$11,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,Hue Rustic Homestay - Apartment for 4 people,0,107.62005395,0,True,0,15,0,0,0,0,0,0,16.46569509,0,0,$53,0,0,0,0,1,0,0,Haiphong,$53,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,4,0,Family Room(04 people),0,107.57356219,0,True,0,18,0,0,0,0,0,0,16.44369683,0,0,$18,0,0,0,0,1,0,0,Haiphong,$18,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,2,1,CĂN HỘ CAO CẤP ROLEX HUẾ,0,107.60673467,0,True,0,8,0,0,0,0,1,0,16.45997276,0,1,$24,0,0,1,1,1,0,1,Haiphong,$24,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,3,0,Hillside homestay Hue - Triple room ,0,107.57776573564304,0,True,0,25,0,0,0,0,0,0,16.44516967828116,0,1,$30,0,1,1,1,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,5,0,"Canary Hotel - Luxury rooms in the Hue City Center - ""Easy walking"" to visit",0,107.59715789999996,0,True,0,9,0,0,0,0,0,0,16.4714192,0,0,$18,0,0,0,0,1,0,0,Haiphong,$18,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,12,0,Căn hộ Mai Hà Homestay,0,107.60991843,0,False,0,10,0,0,0,0,0,0,16.46378687,0,0,$119,0,0,0,0,1,0,0,Haiphong,$119,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,3,0,Tam Homestay Hue Viet Nam,0,107.59860198,0,False,0,38,0,0,0,0,0,0,16.47041382,0,0,$20,0,0,0,0,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,10,0,Dinh Villa | 5Broom | Swimming Pool | 3mins to center,0,107.6120321190491,1,True,0,18,1,0,5,0,1,0,16.44682998270504,0,1,$120,1,0,1,1,1,0,1,Haiphong,$120,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,9,0,Homestay The Manor Crown Hue,0,107.61630728,0,True,0,4,0,0,0,0,0,0,16.44069087,0,0,$50,0,1,1,1,1,0,0,Haiphong,$50,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun&Sea Resort Eco tourism,0,107.65189454,0,False,0,28,0,0,0,0,0,0,16.55674882,0,0,$32,0,0,0,0,1,0,0,Haiphong,$32,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,1,Sun & Sea Resort- Standard Unit 24,0,107.64821115,0,False,0,15,0,0,0,0,0,0,16.54685547,0,0,$35,0,0,0,1,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 33,0,107.64668874,0,True,0,27,0,0,0,0,0,0,16.55063079,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 36,0,107.64651637,0,True,0,27,0,0,0,0,0,0,16.55093413,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 1,0,107.64860157,1,False,0,27,1,0,0,0,0,0,16.55647111,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 27,0,107.64092433,0,False,0,27,0,0,0,0,1,0,16.54597373,0,1,$35,0,0,0,1,1,0,1,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,1,Sun & Sea Resort- Standard Unit 4,0,107.65103387,0,False,0,27,0,0,0,0,0,0,16.55705313,0,1,$35,0,0,1,1,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,1,Sun & Sea Resort- Standard Unit 6,0,107.65304676,0,False,0,27,0,0,0,0,0,0,16.55846853,0,1,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,1,0,0,2,1,Sun & Sea Resort- Standard Unit 19,0,107.65268059,0,False,0,27,0,0,0,0,0,0,16.55406484,0,1,$35,0,0,1,1,1,0,0,Haiphong,$35,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Resort,0,0,0,0,2,1,Sun & Sea Resort- Standard Unit 23,0,107.64110745,1,False,0,27,1,0,0,0,1,0,16.55098081,0,1,$35,0,0,1,1,1,0,1,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 38,0,107.64424329,0,False,0,27,0,0,0,0,0,0,16.54491918,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 25,0,107.64187258,0,False,0,23,0,0,0,0,0,0,16.54413253,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 26,0,107.64690092,0,False,0,27,0,0,0,0,1,0,16.54880837,0,0,$35,0,0,0,0,1,0,1,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 3,0,107.65011878,0,False,0,27,0,0,0,0,0,0,16.55892994,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 15,0,107.65052507,0,True,0,27,0,0,0,0,0,0,16.55877654,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 9,0,107.65423912,0,False,0,26,0,0,0,0,0,0,16.55847116,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 2,0,107.65350405,0,False,0,27,0,0,0,0,0,0,16.55597697,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 14,0,107.6491854,0,False,0,27,0,0,0,0,1,0,16.55831464,0,1,$35,0,0,1,1,1,0,1,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- VIP Unit 3 (Lagoon Vip /Garden Vip view),0,107.63346035,0,False,0,35,0,0,0,0,0,0,16.54618741,0,0,$65,0,0,0,0,1,0,0,Haiphong,$65,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun and Sea Resort- Deluxe Unit 3,0,107.65384257,0,False,0,32,0,0,0,0,0,0,16.55675786,0,0,$65,0,0,0,0,1,0,0,Haiphong,$65,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Resort,0,0,0,0,2,1,Sun & Sea Resort- VIP Unit 9 (Lagoon Vip /Garden Vip view),0,107.65450218,1,False,0,6,1,0,0,0,1,0,16.55708858,0,0,$65,0,0,1,1,1,0,1,Haiphong,$65,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- VIP Unit 6 (Lagoon Vip /Garden Vip view),0,107.65068792,0,False,0,35,0,0,0,0,0,0,16.5561776,0,0,$65,0,0,0,0,1,0,0,Haiphong,$65,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 5,0,107.6511588,0,False,0,27,0,0,0,0,0,0,16.5526039,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,Sun & Sea Resort- VIP Unit 5 (Lagoon Vip /Garden Vip view),0,107.63866681,0,False,0,35,0,0,0,0,0,0,16.54796847,0,0,$65,0,0,0,0,1,0,0,Haiphong,$65,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard unit 22,0,107.64506947,0,True,0,27,0,0,0,0,0,0,16.54766554,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 34,0,107.64626959,0,True,0,27,0,0,0,0,0,0,16.54699401,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 37,0,107.64690286,0,True,0,27,0,0,0,0,0,0,16.54698746,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 30,0,107.64146194,0,True,0,27,0,0,0,0,0,0,16.54841295,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 8,0,107.65329697,0,False,0,27,0,0,0,0,0,0,16.55880212,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- VIP Unit 1 (Lagoon Vip /Garden Vip view),0,107.65284124,1,False,0,15,1,0,0,0,0,0,16.55532167,0,0,$65,0,0,1,0,1,0,0,Haiphong,$65,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Resort,0,0,0,0,2,1,Sun & Sea Resort- Standard Unit 20,0,107.64778084,0,True,0,27,0,0,0,0,0,0,16.54907824,0,0,$35,0,0,0,1,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 16,0,107.64870659,0,True,0,19,0,0,0,0,0,0,16.5542924,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 17,0,107.64915221,0,True,0,26,0,0,0,0,0,0,16.55548378,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 11,0,107.65108525,0,True,0,26,0,0,0,0,0,0,16.55878796,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 21,0,107.64371793,0,True,0,27,0,0,0,0,0,0,16.55138889,0,1,$35,0,1,0,0,1,0,0,Haiphong,$35,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,6,0,Sun & Sea Resort- VIP Unit 8 (Lagoon Vip /Garden Vip view),0,107.65305584,0,False,0,39,0,0,0,0,0,0,16.55631432,0,0,$65,0,0,0,0,1,0,0,Haiphong,$65,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 12,0,107.6521943,0,False,0,27,0,0,0,0,0,0,16.55494302,0,0,$35,0,0,0,1,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Standard Unit 7,0,107.6481101,0,False,0,27,0,0,0,0,0,0,16.55991215,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Sun & Sea Resort- Deluxe Unit 1,0,107.65011091,1,False,0,32,1,0,0,0,0,0,16.55528334,0,0,$65,0,0,0,0,1,0,0,Haiphong,$65,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,The nest of Pooh and Piglet,0,105.93383930000005,0,True,0,18,0,0,0,0,0,0,20.9487341,0,0,$26,0,0,0,0,1,0,0,Haiphong,$26,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,10,1,Sue Villa _ Parkriver,0,105.93631766,0,False,0,6,0,0,0,0,1,0,20.94646597,0,0,$290,0,0,1,1,1,0,1,Haiphong,$290,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,SweetHome your ideal space!,0,105.93971936,0,True,0,27,0,0,0,0,1,0,20.95260812,0,1,$33,0,0,0,1,1,0,1,Haiphong,$33,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,7,1,Comfortable,0,105.92508899,0,True,0,14,0,0,0,0,0,0,20.94011023,0,0,$69,0,0,0,1,1,0,0,Haiphong,$69,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,0,Ecopark 3-Bedroom Luxury Apt with Panoramic view ,0,105.92041079,0,True,0,38,0,0,0,0,0,0,20.96484505,0,0,$73,0,0,0,1,1,0,0,Haiphong,$73,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,Cozy Ecopark Aquabay Apartment with Win & Sunshine ⛅️ ,0,105.92587047,0,True,0,7,0,0,0,0,1,0,20.97066638,0,1,$20,0,1,1,1,1,0,1,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,"H2 Homestay 45m2, 1 bedroom Ecopark Van Giang Hung Yen",0,105.93127732,0,True,0,6,0,0,0,0,0,0,20.95072445,0,1,$25,0,0,0,1,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Ecopark - H2 homestay,0,105.93415081509704,1,True,0,10,1,0,0,0,0,0,20.94825951008177,0,0,$30,0,0,0,0,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,2BR Bright Apartment in Green Community,0,105.92606779,0,True,0,11,0,0,0,0,1,0,20.97641995,0,1,$32,0,0,0,1,1,0,1,Haiphong,$32,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,6,1,ECOPARK HOMESTAY 2BR (COZY HOUSE),0,105.929119,0,True,0,7,0,0,0,0,0,0,20.96093443,0,1,$33,0,0,1,1,1,0,0,Haiphong,$33,0,1,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,2,0,"Starcity Beachfront 5* Studio w/ Kitchen, Private Beach, Pool, Gym",0,109.1972503968201,0,True,0,20,0,0,0,0,0,0,12.233906536991991,0,0,$32,0,0,0,0,1,0,0,Haiphong,$32,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,Moon house - Valentine,0,109.20112948,1,True,0,11,1,0,0,0,1,0,12.22084812,0,1,$20,0,0,1,1,1,0,1,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,Gold Ocean Nha Trang Serviced Apartments,0,109.1964171490738,0,True,0,15,0,0,0,0,0,0,12.236585500000013,0,0,$33,0,0,0,1,1,0,0,Haiphong,$33,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,Moon house tropical garden 5 minutes to the beach in Nha Trang ,0,109.20454717,1,True,0,22,1,0,0,0,1,0,12.21814016,0,1,$31,0,1,1,1,1,0,1,Haiphong,$31,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,Star Fruit Homestay - November room,0,109.18343139,0,True,0,6,0,0,0,0,0,0,12.24117601,0,0,$12,0,0,0,0,1,0,0,Haiphong,$12,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,7,0,"Talisker Homestay - at the heart of Nha Trang city, 10 min walk to the beach",0,109.19563605,0,True,0,20,0,0,0,0,0,0,12.23242976,0,0,$43,0,0,0,1,1,0,0,Haiphong,$43,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Apartment 5⭐ with 2 Beds Beach Front Nha Trang Sea.,0,109.20538799999996,0,True,0,30,0,0,0,0,0,0,12.2701371,0,0,$32,0,0,0,0,1,0,0,Haiphong,$32,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,MIMANCHIHOUSE APARTMENT SEA VIEW,0,109.20206009999993,1,True,0,10,1,0,0,0,1,0,12.2745201,0,1,$31,0,1,1,1,1,0,1,Haiphong,$31,0,1,1,0,0,0,0
+0,0,0,1,1,0,0,0,1,0,Apartment,0,0,0,0,6,0,2 Beautiful Beach View Bedrooms Aptmnt Comfortzone,0,109.16265511,1,True,0,45,1,0,0,0,1,0,11.92132112,0,1,$39,0,1,1,1,1,0,1,Haiphong,$39,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,2,1,Moon house tropical garden - Lavender,0,109.20687779,1,True,0,15,1,0,0,0,1,0,12.2197707,0,1,$24,0,1,1,1,1,0,1,Haiphong,$24,0,1,1,0,1,0,1
+0,0,0,0,1,0,0,0,1,0,Condo,0,0,0,0,6,1,FREE ✈ P/U SeaView 2Bedrooms✯Beachfront.Apartment✯,0,109.2023474,1,True,0,46,1,0,0,0,1,0,12.2734491,0,1,$44,0,1,1,1,1,0,1,Haiphong,$44,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,Moon house - East side,0,109.20338227,0,True,0,10,0,0,0,0,0,0,12.21772548,0,0,$17,0,0,0,1,1,0,0,Haiphong,$17,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,0,H2B Garden homestay near Bai Dai beach - Room 101/2 - Self check in,0,109.19310254,0,False,0,13,0,0,0,0,0,0,12.07185795,0,0,$24,0,0,0,1,1,0,0,Haiphong,$24,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Gold Ocean-Appartment sea view 3 beds,0,109.19645259999992,0,True,0,15,0,0,5,0,0,0,12.2365855,0,1,$43,1,1,0,0,1,0,0,Haiphong,$43,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,1,0,Apartment,0,0,0,0,10,0,Tom's Sea view Smart Huge 3bdr-Apt. in Nha Trang,0,109.2012966,1,False,0,8,1,0,5,0,1,0,12.275614,0,0,$50,1,0,0,1,1,0,1,Haiphong,$50,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,Family 2 Bedroom Ocean view,0,109.2018644,0,True,0,36,0,0,0,0,0,0,12.2742607,0,0,$19,0,0,0,1,1,0,0,Haiphong,$19,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,"Moon house beautifully designed, authentic Vietnamese home, genuine experience.",0,109.1998955,0,True,0,17,0,0,5,0,1,0,12.21948838,0,1,$25,1,1,1,1,1,0,1,Haiphong,$25,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,12,1,An Entire Home holiday rental,0,109.19934659,0,False,0,18,0,0,5,0,1,0,12.27769945,0,1,$120,1,0,1,1,1,0,1,Haiphong,$120,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,0,Căn Hộ Cao Cấp Bồn Tắm San Trọng Gần Biển Nha Trang/Khu vực Hải Sản Giá Rẻ,0,109.19033859,1,True,0,13,1,0,0,0,0,0,12.21010906,0,0,$21,0,1,0,0,1,0,0,Haiphong,$21,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,5,1,panoroma condotel next to  beach sleep up to 4 peoples ,0,109.19571453201593,1,False,0,42,1,0,5,0,1,0,12.23875691000048,0,1,$49,1,1,1,1,1,0,1,Haiphong,$49,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Deluxe Panoramic Ocean & City View Apartment (3224),0,109.20186439999998,0,True,0,19,0,0,0,0,0,0,12.2742607,0,0,$30,0,0,0,1,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,3,1,Panorama Luxury 5* Nha Trang,0,109.19537120926202,0,True,0,50,0,0,0,0,1,0,12.238956124903153,0,1,$34,0,1,1,1,1,0,1,Haiphong,$34,0,0,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,3,1,"Iridescent Cloud Hotel, beach front view with buffet breakfast",0,109.20687072,0,True,0,8,0,0,0,0,0,0,12.28498495,0,1,$25,0,0,1,1,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,1,Cityview apartment in the center of Nha Trang,0,109.19455671,0,True,0,20,0,0,1,0,1,0,12.2388131,0,1,$33,1,1,1,1,1,0,1,Haiphong,$33,0,1,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,0,Muong Thanh Beach View Condominium Comfortzone ,0,109.1612889,0,True,0,47,0,0,0,0,0,0,11.922993,0,0,$41,0,0,0,0,1,0,0,Haiphong,$41,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,1,0,Apartment,0,1,0,0,1,0,iSeaview Nha Trang Beach Apartment ,0,109.19957577,1,True,0,14,1,0,0,0,0,0,12.27797567,0,1,$27,0,1,1,1,1,0,0,Haiphong,$27,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,Lucina Villa - 4 Bedrooms with Infinity Pool,0,109.21324866,0,True,0,11,0,0,0,0,0,0,12.2042126,0,1,$680,0,0,0,0,1,0,0,Haiphong,$680,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,5,1,FREE✈PICKUP✯Two Bedrooms Beachfront Condo ✯Awesome.SeaView,0,109.2023474,0,True,0,35,0,0,0,0,0,0,12.2734491,0,0,$62,0,0,0,1,1,0,0,Haiphong,$62,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,12,0,Diamond Villa - Free Pick up Airport,0,109.20804638,0,True,0,21,0,0,0,0,0,0,12.19604301,0,0,$150,0,0,0,0,1,0,0,Haiphong,$150,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,Free Pool ❀ Sea View Panorama Hello Nha Trang,0,109.19600601,0,True,0,14,0,0,0,0,0,0,12.23512269,0,1,$39,0,0,0,0,1,0,0,Haiphong,$39,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,3,0,Deluxe Double room - City View,0,109.2156033,0,True,0,9,0,0,0,0,0,0,12.2976709,0,0,$18,0,0,0,1,1,0,0,Haiphong,$18,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,0,0,0,8,0,HAPIER VILLA by French Management BAIE DE NHA TRANG ,0,109.21319925,1,True,0,44,1,0,0,0,0,0,12.20226347,0,1,$349,0,1,1,1,1,0,0,Haiphong,$349,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,1,0,0,5,1,FREE ✈ Pick Up @ Two Bedrooms SeaView Apartment,0,109.2023474,0,True,0,29,0,0,0,0,1,0,12.2734491,0,1,$42,0,1,1,1,1,0,0,Haiphong,$42,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel suite,0,0,0,0,99,0,Stay 7 International Nha Trang make you feel like home,0,109.19365966,0,True,0,6,0,0,0,0,0,0,12.23073065,0,0,$60,0,0,0,1,1,0,0,Haiphong,$60,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Hostel,0,0,0,0,10,0,Homestay near Camranh International Airport & Long Beach Nhatrang,0,109.19846819999998,1,True,0,11,1,0,0,0,0,0,11.9873329,0,1,$6,0,1,0,1,1,0,0,Haiphong,$6,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,1,LUXURY 30BEACHFRONT APARTMENT / Nha Trang Khánh Hòa,0,109.20251727925,0,True,0,31,0,0,0,0,1,0,12.273434208203,0,1,$36,0,0,1,1,1,0,1,Haiphong,$36,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Resort,0,0,0,0,6,1,Beachfront 2-Bedroom Hotel Apartment,0,109.19523983,1,True,0,100,1,0,0,0,1,0,12.07084931,0,1,$125,0,1,1,0,1,0,0,Haiphong,$125,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,1,Sea-river view Apartment Nha Trang center,0,109.19986558,0,True,0,22,0,0,0,0,1,0,12.25616742,0,1,$50,0,0,1,1,1,0,1,Haiphong,$50,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,9,0,Homestay Vy House Nha Trang,0,109.1969596,1,False,0,16,1,0,0,0,0,0,12.2823663,0,1,$93,0,0,1,1,1,0,0,Haiphong,$93,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,1,Beachfront villa in Nha Trang,0,109.18732733,0,True,0,2,0,0,0,0,1,0,12.25556359,0,1,$34,0,0,1,1,1,0,1,Haiphong,$34,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,Beautiful Sunshine BeachView Apartment Comfortzone,0,109.16050489999998,0,True,0,45,0,0,0,0,1,0,11.9251289,0,1,$36,0,0,1,1,1,0,1,Haiphong,$36,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,6,1,Ocean View Two-bedroom Villa on Second Floor,0,109.19926479,0,True,0,79,0,0,0,0,1,0,12.07406887,0,1,$197,0,0,1,1,1,0,1,Haiphong,$197,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,1,1,Mini apartment near long son pagoda with nice view,0,109.18655704,0,True,0,23,0,0,0,0,0,0,12.22682893,0,1,$11,0,0,1,1,1,0,0,Haiphong,$11,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,Deluxe Panoramic Ocean & City View Apartment (2424),0,109.20133037,0,True,0,26,0,0,0,0,1,0,12.27685585,0,1,$30,0,0,1,1,1,0,1,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,4,1,Seana Hotel - Family connecting city view double/twin for 4 pax,0,109.1960197,0,True,0,14,0,0,0,0,1,0,12.234456,0,1,$80,0,1,0,1,1,0,1,Haiphong,$80,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,Natural Feel Villa- Vintage 4 Bedrooms- Near the Beach And City Central,0,109.20462504,1,True,0,35,1,0,0,0,1,0,12.28399029,0,1,$143,0,1,1,1,1,0,1,Haiphong,$143,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,Q Seaview Residences 1,0,109.20171734,0,False,0,11,0,0,0,0,0,0,12.27160779,0,0,$23,0,0,1,0,1,0,0,Haiphong,$23,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,$2/day Motorbike - First Floor - TV with Netflix,0,109.19106888,0,True,0,15,0,0,0,0,0,0,12.28385811,0,0,$10,0,0,0,0,1,0,0,Haiphong,$10,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Building,0,0,0,0,6,0,Deluxe Double room - Mountain View,0,109.21874478,0,True,0,11,0,0,0,0,0,0,12.30026508,0,0,$20,0,0,0,0,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,2,1,Q beachfront Residence 3,0,109.20626887,0,False,0,11,0,0,0,0,1,0,12.27146843,0,1,$31,0,0,1,1,1,0,1,Haiphong,$31,0,1,1,0,0,0,1
+0,0,0,1,1,0,0,0,1,0,House,0,0,0,0,4,1,Moon house tropical garden - West side,0,109.20668078,1,True,0,19,1,0,0,0,0,0,12.22007506,0,1,$32,0,0,0,1,1,0,0,Haiphong,$32,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,0,Venity  Breeze Villa,0,109.19991841,0,True,0,12,0,0,0,0,0,0,12.22574349,0,0,$800,0,0,0,0,1,0,0,Haiphong,$800,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,1,0,"Nắng Homestay là nhà riêng, nằm trong hẻm cách đường lớn khoảng 300 mét.",0,109.18117550204752,0,True,0,45,0,0,0,0,0,0,12.25606379883205,0,0,$15,0,0,0,1,1,0,0,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,0,VANI HOME - STARFISH - 200M TO THE BEACH,0,109.20214705,0,True,0,12,0,0,0,0,0,0,12.29194109,0,0,$35,0,0,0,1,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,4,1,Luxury Seaview Apt. - Costa Res Nha Trang,0,109.19590489999996,0,True,0,26,0,0,0,0,1,0,12.2442552,0,1,$110,0,1,1,1,1,0,1,Haiphong,$110,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,"Tulip Apartment & Hotel 
+A heaven on the beach for your best Vacation !",0,109.20079476826174,0,False,0,14,0,0,0,0,0,0,12.276649390806568,0,1,$11,0,0,1,1,1,0,0,Haiphong,$11,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,Seana Hotel - Deluxe sea view double/twin,0,109.1960197,0,True,0,15,0,0,0,0,0,0,12.234456,0,0,$45,0,0,0,0,1,0,0,Haiphong,$45,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Apartment,0,0,0,0,4,1,Beautiful Apartment In Nhatrang,0,109.19786381163942,1,True,0,15,1,0,0,0,1,0,12.27403274588356,0,1,$14,0,1,1,1,1,0,1,Haiphong,$14,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,Luxury apartment Maple with sea view Nha Trang,0,109.19559389,0,True,0,19,0,0,0,0,0,0,12.23929478,0,0,$75,0,0,0,0,1,0,0,Haiphong,$75,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,14,1,Villa Nha Trang private beach E5,0,109.20711141,0,True,0,34,0,0,0,0,1,0,12.19935929,0,1,$345,0,0,0,1,1,0,1,Haiphong,$345,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,1,Gold Ocean- Sea view with taste from Japanese style,0,109.19376837,1,False,0,18,1,0,0,0,1,0,12.2339505,0,1,$48,0,0,1,1,1,0,1,Haiphong,$48,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Studio,0,0,0,0,3,1,New and great cozy studio,0,109.20117269,1,False,0,8,1,0,0,0,1,0,12.28020102,0,1,$25,0,1,1,1,1,0,1,Haiphong,$25,0,0,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,Beachfront ✯ Modern Apartment 2 Bedrooms,0,109.19766785365904,0,True,0,22,0,0,0,0,0,0,12.259380843650073,0,0,$29,0,0,0,0,1,0,0,Haiphong,$29,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Phuc An Nha Trang Apartment,0,109.20225849999996,0,True,0,12,0,0,0,0,0,0,12.2743677,0,0,$43,0,0,0,0,1,0,0,Haiphong,$43,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,10,0,❤️ Ngoi Casa - beachfront villa with private pool and terrace,0,109.21149966522056,0,True,0,42,0,0,0,0,1,0,12.196156233741554,0,1,$394,0,1,1,1,1,0,1,Haiphong,$394,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,1,Family 2 Bedroom,0,109.2018644,0,True,0,11,0,0,0,0,1,0,12.2742607,0,0,$19,0,0,1,1,1,0,1,Haiphong,$19,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,1,Angela Serviced Apartment 2 single beds,0,109.21545689,0,True,0,24,0,0,0,0,1,0,12.02738457,0,0,$44,0,0,1,1,1,0,1,Haiphong,$44,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,16,0,Louis&Annie Villa - FREE PICK UP & BREAKFAST,0,109.20558271213372,0,True,0,33,0,0,0,0,0,0,12.197571932702258,0,0,$200,0,0,0,0,1,0,0,Haiphong,$200,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,1,Condotel Starcity Nha Trang,0,109.19795850000004,1,False,0,9,1,0,0,0,1,0,12.2340743,0,1,$63,0,1,1,1,1,0,1,Haiphong,$63,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,7,1,"Talisker Homestay - at the heart of Nha Trang city, 10 min walk to the beach",0,109.19563605,1,True,0,20,1,0,0,0,1,0,12.23242976,0,1,$43,0,1,1,1,1,0,1,Haiphong,$43,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Apartment,0,0,0,0,6,0,"Impressive Beauty, Seaview Place",0,109.203709,1,True,0,37,1,0,0,0,0,0,12.27319487,0,1,$25,0,1,0,1,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,1,"Nha Trang Beach Apartment 4 guest, 2 br, 2106",0,109.19733223,0,True,0,8,0,0,0,0,0,0,12.27160682,0,1,$39,0,0,1,0,1,0,0,Haiphong,$39,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,5,1,"EmƠi Home 8mins to the beach for family & friends (centre, cozy and private)",0,109.1930717,0,True,0,6,0,0,0,0,1,0,12.23486388,0,1,$38,0,1,1,1,1,0,1,Haiphong,$38,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,Wanan Villa with Private Pool and Seaview,0,109.2128248,0,True,0,34,0,0,0,0,1,0,12.2011238,0,1,$450,0,0,0,1,1,0,1,Haiphong,$450,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,Jasmine By The Sea - Affordable Private Studio 2,0,109.20303131,1,False,0,19,1,0,0,0,1,0,12.27871197,0,1,$18,0,1,1,1,1,0,1,Haiphong,$18,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,3,1,Large Apartment with reasonable price,0,109.20306835,1,True,0,7,1,0,0,0,0,0,12.28179675,0,0,$15,0,1,0,1,1,0,0,Haiphong,$15,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Sea View Studio in 5* building Costa,0,109.19633388519289,0,True,0,13,0,0,5,0,1,0,12.245027131669769,0,1,$65,2,0,1,1,1,0,1,Haiphong,$65,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,1,0,Apartment,0,1,0,0,1,1,"Apartment near the sea, cheap",0,109.2040614,1,False,0,6,1,0,0,0,1,0,12.27772102,0,1,$35,0,1,1,1,1,0,1,Haiphong,$35,0,1,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,6,1, Deluxe Triple room- Sea View,0,109.20187770978691,1,True,0,10,1,0,0,0,1,0,12.27418462531704,0,1,$23,0,1,0,1,1,0,1,Haiphong,$23,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,1,Loka hotel - Double room,0,109.196495273758,0,True,0,11,0,0,0,0,1,0,12.2160588825217,0,1,$20,0,0,1,1,1,0,1,Haiphong,$20,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,PH Apartment with 2 bedrooms B19-02,0,109.19709,0,True,0,9,0,0,0,0,1,0,12.21385,0,1,$32,0,1,1,0,1,0,1,Haiphong,$32,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,2,1,"City View Balcony 5*Apartment, FREE Gym & Pool",0,109.19749895,0,True,0,7,0,0,0,0,1,0,12.23918295,0,1,$66,0,1,1,1,1,0,1,Haiphong,$66,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,Joy Mezzanine Apartment-Rooftop-Near Stone Church,0,109.18834339,0,False,0,8,0,0,0,0,1,0,12.24966696,0,1,$27,0,0,1,1,1,0,1,Haiphong,$27,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,1,"Nha Trang Beach Apartments 4 Guests 2Br, 2Bth 3526",0,109.19925126,1,True,0,41,1,0,0,0,1,0,12.27379737,0,1,$32,0,0,1,1,1,0,1,Haiphong,$32,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,9,0,Your villa on the beach,0,109.19727852,1,True,0,49,1,0,0,0,0,0,12.0730384,0,0,$399,0,1,0,1,1,0,0,Haiphong,$399,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,1,0,Apartment,0,0,0,0,5,1,Le Phuong’s House - Beautifully designed with 1 min to Nha Trang beach...,0,109.20405329999994,0,True,0,21,0,0,0,0,1,0,12.2718248,0,1,$40,0,0,1,1,1,0,1,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,Seana Hotel - Senior deluxe sea view double/twin,0,109.1960197,0,True,0,15,0,0,0,0,0,0,12.234456,0,0,$37,0,0,0,1,1,0,0,Haiphong,$37,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,Oleander Apartment with balcony sea view 36,0,109.20127131,1,True,0,18,1,0,0,0,1,0,12.2777264,0,1,$35,0,0,1,1,1,0,1,Haiphong,$35,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Studio,0,0,0,0,2,0,La Rire House -  Room w/t balcony - 5 min to the beach,0,109.19939604596334,1,False,0,48,1,0,0,0,0,0,12.227619813528882,0,1,$23,0,1,0,1,1,0,0,Haiphong,$23,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,Gold Ocean Nha Trang,0,109.19634459999996,0,True,0,9,0,0,0,0,0,0,12.2381611,0,0,$43,0,0,0,0,1,0,0,Haiphong,$43,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Quynh Mai Resort/Bungalow/Eco-friendly/Phu Quoc Island,0,103.98193025,0,True,0,15,0,0,0,0,0,0,10.18270658,0,1,$28,0,0,0,0,1,0,0,Haiphong,$28,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,3,0,Marina Seaside Boutique Hotel,0,103.98304267561032,0,True,0,17,0,0,0,0,0,0,10.115676711887724,0,0,$25,0,0,0,0,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,10,0,"Wanderlust Stay&Cafe Near Sao Beach, Garden View",0,104.0169882917877,0,True,0,38,0,0,0,0,0,0,10.061318991277542,0,0,$18,0,0,0,1,1,0,0,Haiphong,$18,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,4,1,Unique Vietnamese Cottage Villa,0,103.91204292,0,True,0,10,0,0,3,0,1,0,10.29238611,0,1,$45,1,1,1,1,1,0,1,Haiphong,$45,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,2,1,Villa Cua Can - Garden River View - 50m to the beach.,0,103.91603149021309,0,False,0,12,0,0,0,0,1,0,10.29177864031094,0,1,$20,0,0,1,1,1,0,1,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Townhome,0,0,0,0,6,1,"Inside Grand World, Safari, Vinwonders Bai Dai Beach Phu Quoc",0,103.86384452,0,True,0,8,0,0,0,0,0,0,10.32805649,0,1,$35,0,0,0,1,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,"Apartment, new, fully furnished, central, beachfront  66033",0,103.96117399,0,True,0,17,0,0,0,0,0,0,10.20956836,0,1,$63,0,1,0,0,1,0,0,Haiphong,$63,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,7,1,Private villa with large infinity pool,0,103.95530861948237,0,True,0,23,0,0,0,0,1,0,10.25863831317611,0,1,$440,0,0,1,1,1,0,1,Haiphong,$440,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,8,1,Y Thu Guesthouse Phu Quoc,0,104.00816971,0,False,0,6,0,0,0,0,1,0,10.01850256,0,1,$14,0,0,1,1,1,0,1,Haiphong,$14,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Cottage,0,0,0,0,4,0,Mermaid Guesthouse-Private beach-Resort Access,0,104.07218761,0,True,0,6,0,0,0,0,0,0,10.21849991,0,0,$60,0,0,1,1,1,0,0,Haiphong,$60,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,0,0,0,2,0,An exclusive and private boutique villa on the beach,0,103.94430445717772,1,True,0,30,1,0,0,0,0,0,10.250850511761325,0,0,$114,0,0,0,1,1,0,0,Haiphong,$114,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,30,1,EM Apartment Phu Quoc,0,104.00937788469466,0,True,0,21,0,0,0,0,1,0,10.036447426570112,0,1,$40,0,0,1,0,1,0,1,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,6,0,Luxury Phu Quoc villa w/private pool - 700m from the beach!,0,103.99231265,0,True,0,12,0,0,0,0,0,0,10.13177707,0,0,$295,0,0,0,0,1,0,0,Haiphong,$295,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Chalet,0,0,0,0,4,1,"Lotus Home, A Unique Sunrise Chalet",0,104.07489397,0,True,0,24,0,0,0,0,1,0,10.21812338,0,1,$49,0,0,1,1,1,0,1,Haiphong,$49,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Cottage,0,0,0,0,4,0,Pirate Guesthouse-private beach-Resort Access,0,104.07320398,0,True,0,12,0,0,0,0,0,0,10.21790373,0,0,$60,0,0,0,1,1,0,0,Haiphong,$60,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,12,0,West coast Phu Quoc island 5BR Duplex villa by the beach,0,103.98290025298692,0,True,0,19,0,0,0,0,0,0,10.134883510702952,0,0,$237,0,0,0,1,1,0,0,Haiphong,$237,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,0,0,0,25,0,Contact: +84355178728,0,103.96466701,0,True,0,13,0,0,0,0,0,0,10.19226948,0,1,$17,0,0,1,1,1,0,0,Haiphong,$17,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,15,1,LOVE HOUSE PHU QUOC Cn H 4 Phng Ng,0,103.97513359999994,0,True,0,19,0,0,0,0,0,0,10.2236769,0,0,$125,0,0,0,1,1,0,0,Haiphong,$125,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,2,0,An Bnh Minh Villa and Wooden Handcrafts,0,103.94537259999991,0,True,0,21,0,0,0,0,0,0,10.2590357,0,1,$43,0,0,1,1,1,0,0,Haiphong,$43,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,6,0,private pool villa,0,103.96799929,0,True,0,26,0,0,0,0,0,0,10.27359099,0,0,$98,0,0,0,0,1,0,0,Haiphong,$98,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House boat,0,0,0,0,2,1,"Lotus home, a sunrise overwater getaway",0,104.07547454,0,False,0,21,0,0,0,0,1,0,10.21773888,0,1,$49,0,0,1,1,1,0,1,Haiphong,$49,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,0,0,0,4,0,Family Bungalow near Sao Beach,0,104.02955538,1,False,0,19,1,0,0,0,0,0,10.03374314,0,0,$34,0,0,0,0,1,0,0,Haiphong,$34,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,5,0,Welcome Home ! Cashew Cashew Villa is a retreat like no other,0,103.98120079,1,False,0,24,1,0,0,0,0,0,10.29229035,0,1,$234,0,0,1,1,1,0,0,Haiphong,$234,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,2,0,Boutique Resort Phu Quoc,0,103.94305272,0,False,0,7,0,0,0,0,0,0,10.26493619,0,0,$25,0,0,0,1,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel suite,0,0,0,0,1,0,Delux family room with sea view - Be Home 4 Sunset House,0,103.96914564,0,False,0,16,0,0,0,0,0,0,10.17677205,0,0,$45,0,0,0,0,1,0,0,Haiphong,$45,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,Minimalist & Modern Apartment I,0,103.98480619177934,0,True,0,35,0,0,0,0,0,0,10.131717434855576,0,0,$37,0,0,0,0,1,0,0,Haiphong,$37,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,Teddy 108 Homestay (Gưu s ưa),0,103.86199612,0,True,0,12,0,0,0,0,0,0,10.32787146,0,1,$24,0,0,0,1,1,0,0,Haiphong,$24,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,1,Entire house - 10 mins walk to LONG BEACH,0,103.97281748,0,True,0,9,0,0,0,0,0,0,10.18575085,0,0,$18,0,1,1,1,1,0,0,Haiphong,$18,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Townhome,0,0,0,0,4,1,Brainbow Motel,0,103.86608034,0,True,0,17,0,0,0,0,1,0,10.32822517,0,1,$50,0,0,1,1,1,0,0,Haiphong,$50,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,The True Homes 04 ..,0,103.97596315,0,False,0,8,0,0,0,0,0,0,10.17888818,0,1,$21,0,0,0,1,1,0,0,Haiphong,$21,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,1,"Lotus Home+, Sunrise Villa with Seaview (3BR)",0,104.07219469999995,0,False,0,11,0,0,0,0,0,0,10.2203235,0,0,$250,0,0,0,1,1,0,0,Haiphong,$250,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Townhome,0,0,0,0,26,0,West coast Phu Quoc island 13BR Townhouse with Beach and swimming pools,0,103.98243113195493,0,False,0,19,0,0,0,0,0,0,10.116067507797172,0,1,$474,0,0,0,1,1,0,0,Haiphong,$474,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,3,0,"Apartment: fully furnished, downtown central, beachfront 44033",0,103.96182867,0,True,0,16,0,0,0,0,0,0,10.21030353,0,0,$34,0,0,0,1,1,0,0,Haiphong,$34,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Hotel,0,0,0,0,1,0,"7S Kim Xuan Bungalow, Phú Quốc",0,103.96522101,0,True,0,12,0,0,0,0,0,0,10.2031651,0,1,$19,0,0,0,1,1,0,0,Haiphong,$19,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,0,Delux family room with pool view- Be Home 4 Sunset House,0,103.96883088866888,0,False,0,14,0,0,0,0,0,0,10.181146624145846,0,1,$26,0,0,0,0,1,0,0,Haiphong,$26,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,1,"7S Audrey's Hotel, Phú Quốc",0,103.98356666,0,True,0,20,0,0,0,0,1,0,10.12704242,0,1,$38,0,0,1,1,1,0,1,Haiphong,$38,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,6,0,Pool villa ,0,103.96787392,0,True,0,9,0,0,0,0,1,0,10.27067426,0,1,$119,0,0,1,1,1,0,1,Haiphong,$119,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,Minh Anh House - Phu Quoc Island,0,103.98270191,0,True,0,9,0,0,0,0,0,0,10.28948855,0,0,$49,0,0,0,1,1,0,0,Haiphong,$49,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Hotel suite,0,0,0,0,3,0,Teddy 108 Homestay 2-Green,0,103.86134017,0,True,0,12,0,0,0,0,0,0,10.32157569,0,0,$30,0,0,0,1,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel suite,0,0,0,0,2,1,Teddy 108 Homestay 1 oso amarillo,0,103.86114754,0,True,0,11,0,0,0,0,1,0,10.32492808,0,1,$17,0,0,1,1,1,0,1,Haiphong,$17,0,0,1,0,0,0,1
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,0,0,0,2,0,"Romantic Treehouse Queen Bed, Balcony",0,108.43046033,0,True,0,11,0,0,0,0,1,0,11.92907486,0,1,$35,0,0,1,1,1,0,0,Haiphong,$35,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,1,0,Apartment,0,0,0,0,5,1,Apartment 2Bedrooms in Do Gia Bao Villas,0,108.46896807,0,True,0,21,0,0,0,0,1,0,11.95580723,0,1,$53,0,0,1,1,1,0,1,Haiphong,$53,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,14,0,Villa DoiGioHu ( 6 rooms ) - View Hill in Center of Da Lat ,0,108.42604198280333,0,True,0,26,0,0,0,0,0,0,11.929848684666194,0,0,$129,0,0,0,0,1,0,0,Haiphong,$129,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,18,0,Villa Cao Gia Chi Bao (Hillside Luxury Villa Valley View),0,108.44238546,0,True,0,34,0,0,5,0,0,0,11.97045537,0,0,$178,1,0,0,0,1,0,0,Haiphong,$178,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,6,0,Jolie House - Villa 2 Double Rooms - Great Getaway,0,108.443644,0,True,0,48,0,0,0,0,1,0,11.9615783,0,1,$57,0,0,1,1,1,0,1,Haiphong,$57,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,15,0,Quiet in city,0,108.438573,0,True,0,25,0,0,0,0,0,0,11.9581326,0,0,$15,0,0,0,0,1,0,0,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,16,0,Jolie House Villa- Open View- Few Mins To Downtown,0,108.44368691534424,0,True,0,47,0,0,5,0,0,0,11.96154681236196,0,1,$77,1,0,1,1,1,0,0,Haiphong,$77,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,16,0,Jolie House Villa II - Open View- Few Mins To Downtown,0,108.44266971031188,0,True,0,40,0,0,0,0,1,0,11.959732246190088,0,1,$77,0,0,1,1,1,0,1,Haiphong,$77,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,40,0,Nơi Nghĩ Dưỡng Yên Tĩnh,0,108.43961323,0,True,0,34,0,0,0,0,0,0,11.9690136,0,0,$250,0,0,0,1,1,0,0,Haiphong,$250,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Lodge,0,0,0,0,3,0,PUZZLE APARTMENT DA LAT WITH NICE VIEW,0,108.46350239999992,0,True,0,21,0,0,0,0,0,0,11.9517699,0,1,$12,0,0,1,1,1,0,0,Haiphong,$12,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,20,1,"Located In Nice Places Of Dalat City With Range Of Mountains,evergreen Forest",0,108.45870073,0,True,0,13,0,0,0,0,0,0,11.93952515,0,1,$5,0,0,1,1,1,0,0,Haiphong,$5,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,Ba An's home - heart of DaLat,0,108.43821120740972,0,True,0,18,0,0,0,0,0,0,11.944073569034789,0,1,$61,0,0,0,1,1,0,0,Haiphong,$61,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,14,0,Blue Light Villa - Hotel Lifestyle,0,108.44724630978703,0,False,0,31,0,0,0,0,0,0,11.965349034154093,0,1,$200,0,0,0,0,1,0,0,Haiphong,$200,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,2,1,"Komori - live greener, love deeper - Hoi An room",0,108.41777178,0,True,0,9,0,0,0,0,1,0,11.93307327,0,1,$22,0,0,0,1,1,0,1,Haiphong,$22,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,9,1,Tọa lạc tại vị trí đắc địa ở Đà Lạt Khu trung tâm cacsch chợ đêm 300m,0,108.43516842,0,True,0,7,0,0,0,0,1,0,11.93799753,0,1,$11,0,0,1,1,1,0,1,Haiphong,$11,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,15,0,Lakeview Villa! Middle of a green pine forest,0,108.4741624,0,True,0,12,0,0,0,0,0,0,11.96645258,0,1,$230,0,0,0,1,1,0,0,Haiphong,$230,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,0,0,0,20,1,Starlight villa biệt thự đa lạt,0,108.46224155,1,True,0,18,1,0,0,0,1,0,11.94681324,0,1,$150,0,1,0,1,1,0,1,Haiphong,$150,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,15,1,Lovely Villa 98 in the countryside of Da Lat,0,108.46770154,0,True,0,11,0,0,0,0,1,0,11.93009861,0,1,$75,0,0,1,1,1,0,1,Haiphong,$75,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,18,0,The Cleomy - Organic Living & Coffee,0,108.44120637,0,True,0,25,0,0,0,0,0,0,11.92515074,0,0,$73,0,0,0,0,1,0,0,Haiphong,$73,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,0,Homestay M-Latino Dalat - Be A Part Of Your Trip,0,108.44584087308576,0,True,0,41,0,0,0,0,0,0,11.967129597676072,0,0,$120,0,0,0,0,1,0,0,Haiphong,$120,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,Chivo House - The House Of Peace,0,108.4347813,0,True,0,45,0,0,0,0,0,0,11.92590231,0,0,$70,0,0,0,0,1,0,0,Haiphong,$70,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,3,0,Dalat Center Residence - Apt in Market And Center,0,108.43804224841018,0,True,0,30,0,0,0,0,1,0,11.944377894449978,0,1,$47,0,0,1,1,1,0,1,Haiphong,$47,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,30,0,family-size house with full convenient supplyment for amazing experience,0,108.42807101,0,True,0,8,0,0,0,0,0,0,11.94557521,0,0,$40,0,0,0,1,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,1,0,0,15,0,Quiet in city,0,108.438573,0,True,0,25,0,0,0,0,1,0,11.9581326,0,1,$15,0,0,1,1,1,0,1,Haiphong,$15,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,1,0,Townhome,0,0,0,0,18,1,Casa Villa - Valley View in the heart of Dalat,0,108.434673,1,True,0,53,1,0,0,0,1,0,11.930509,0,1,$212,0,0,1,1,1,0,1,Haiphong,$212,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,1,1,Long-term Rental - 2bedrooms - Total 122sqm - Quiet Area,0,108.42763349,0,True,0,12,0,0,0,0,1,0,11.93881244,0,1,$15,0,1,1,1,1,0,1,Haiphong,$15,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,10,0,Da Lat Luxury Lake View Luis Villa,0,108.41557686,0,True,0,27,0,0,0,0,0,0,11.88622508,0,0,$225,0,0,0,0,1,0,0,Haiphong,$225,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel suite,0,0,0,0,9,0,"Homestay Dinh Bảo Đại, view đẹp, rừng thông rừng hồng",0,108.46433242,0,True,0,6,0,0,0,0,1,0,11.94618513,0,0,$25,0,0,1,1,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,25,0,Bach Diep House - Entire Villa - Full Equipment,0,108.4591804,0,True,0,19,0,0,0,0,0,0,11.9409948,0,0,$55,0,0,0,1,1,0,0,Haiphong,$55,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,Center Apartment DaLat,0,108.43801951957404,0,False,0,16,0,0,0,0,0,0,11.944177086217572,0,0,$60,0,0,0,1,1,0,0,Haiphong,$60,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,1,0,"Grass Hostel - Beautiful view, peace",0,108.45818051,0,True,0,6,0,0,0,0,1,0,11.93699987,0,1,$65,0,0,1,1,1,0,0,Haiphong,$65,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Studio,0,1,0,0,5,1,"apartment with game console + big screen, chill garden",0,108.46661184,0,True,0,17,0,0,0,0,1,0,11.95277577,0,1,$33,0,0,1,1,1,0,1,Haiphong,$33,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,3,0,Jolie House - Villa 1 Double Room - Great Getaway,0,108.443644,0,True,0,47,0,0,0,0,0,0,11.9615783,0,0,$33,0,1,0,1,1,0,0,Haiphong,$33,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,0,"Komori - live greener, love deeper - Ta Van room",0,108.41629054,0,True,0,9,0,0,0,0,1,0,11.93044205,0,1,$32,0,0,1,1,1,0,1,Haiphong,$32,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,8,1,Peaceful Wooden Chalet with Vintage Kitchen and Cozy Meditation Room,0,108.45179824,1,True,0,34,1,0,0,0,1,0,11.93161398,0,1,$52,0,1,1,1,1,0,1,Haiphong,$52,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Townhome,0,0,0,0,12,0,"Love, Cassie Homestay - House Rental",0,108.45853494890444,0,False,0,48,0,0,0,0,0,0,11.953060936806946,0,0,$107,0,0,0,1,1,0,0,Haiphong,$107,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,14,0,"Nhà Nguyên Căn phong cách gỗ, ngay trung tâm cách chợ vài bước chân",0,108.43449232,0,True,0,9,0,0,0,0,0,0,11.93947033,0,0,$25,0,0,0,0,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,20,0,"The house located at the city of flowers, near Dalat Market, Dalat center",0,108.45103281,0,True,0,14,0,0,0,0,0,0,11.92588307,0,0,$13,0,0,0,1,1,0,0,Haiphong,$13,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,1,0,0,4,1,Twin Bungalow with Valley view,0,108.47379742,1,True,0,17,1,0,0,0,1,0,11.9601524,0,1,$25,0,0,1,1,1,0,1,Haiphong,$25,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,0,0,0,4,0,"Lovely Treehouse with 2 queen beds, restroom, small kitchen, balcony forest view",0,108.42887987,0,True,0,14,0,0,0,0,0,0,11.93060972,0,0,$40,0,0,0,0,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,7,0,"Unique villa on hilltop viewing lake, valley, mountains",0,107.77095186,0,True,0,16,0,0,0,0,0,0,11.59545476,0,0,$531,0,0,0,1,1,0,0,Haiphong,$531,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,20,0,THE WINDY BnB - HOMETELLER,0,108.4644434,0,False,0,50,0,0,0,0,1,0,11.92702605,0,1,$30,0,0,1,1,1,0,1,Haiphong,$30,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,0,Khu Chung Cu Ngo Quyen Lo A5 Da Lat,0,108.4229058801484,1,True,0,6,1,0,0,0,1,0,11.954740094228509,0,1,$25,0,0,0,1,1,0,1,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,0,"T RUBY HOUSE 2, DA LAT, LAM DONG, VIET NAM",0,108.43081573,0,True,0,22,0,0,0,0,0,0,11.97180513,0,1,$35,0,0,0,1,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,1,1,288 Moka Homestay Tp Dalat Vietnam,0,108.4487766,0,True,0,4,0,0,0,0,0,0,11.97290872,0,0,$150,0,0,0,1,1,0,0,Haiphong,$150,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,34,0,A cozy place to stay in Dalat,0,108.44099200000004,0,True,0,9,0,0,0,0,0,0,11.935626,0,0,"$10,000",0,0,0,1,1,0,0,Haiphong,"$10,000",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,0,Cozy house in Da Lat with nice view - Home 37M,0,108.4336995,0,True,0,11,0,0,0,0,0,0,11.92098877,0,0,$25,0,0,0,1,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Corporate apartment,0,0,0,0,5,0,"Conveniently located near BigC, next to Xuân Hương Lake,",0,108.45771116,0,True,0,9,0,0,0,0,0,0,11.94105554,0,0,$70,0,0,0,0,1,0,0,Haiphong,$70,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,Lovely house in the Center city,0,108.42840468,0,True,0,22,0,0,0,0,1,0,11.94050996,0,1,$42,0,0,1,1,1,0,1,Haiphong,$42,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,20,0,Explore&EnJOY- CIRCLE CHIQUILLA - AMARILLO,0,108.43578980000008,0,True,0,48,0,0,0,0,0,0,11.9548382,0,0,$28,0,0,0,0,1,0,0,Haiphong,$28,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,7S Cozy Boutique Da Lat Hotel,0,108.44099414,0,False,0,4,0,0,0,0,0,0,11.93237905,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,14,0,"Entire Home: Beautiful, Brand-new built in 2022",0,108.43258634,0,True,0,77,0,0,0,0,0,0,11.9513369,0,0,$93,0,0,0,0,1,0,0,Haiphong,$93,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,16,0,NHA CUA AN,0,108.44239542275392,0,True,0,16,0,0,0,0,0,0,11.927222505380602,0,0,$200,0,0,0,1,1,0,0,Haiphong,$200,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,15,0,Villa Bubu  -   Da Lat,0,108.42246137,0,True,0,6,0,0,0,0,0,0,11.93772098,0,0,$200,0,0,0,1,1,0,0,Haiphong,$200,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,3,1,Sun Hills Homestay - Single room 3,0,108.42792206,0,False,0,10,0,0,0,0,1,0,11.93349092,0,1,$31,0,0,1,1,1,0,1,Haiphong,$31,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,0,Hari Garden -Entire house for 10 people,0,108.42550872,0,False,0,9,0,0,0,0,0,0,11.94392075,0,0,$87,0,0,0,1,1,0,0,Haiphong,$87,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Townhome,0,0,0,0,2,0,"Love, Cassie Homestay - Orchid (Double Room)",0,108.45851349123232,0,False,0,39,0,0,0,0,0,0,11.953039944387804,0,0,$24,0,0,0,0,1,0,0,Haiphong,$24,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,3,0,Sun Hills Homestay - White - Single room 1,0,108.42941533,0,False,0,14,0,0,0,0,0,0,11.93626331,0,0,$31,0,0,0,0,1,0,0,Haiphong,$31,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,12,1,Leave the city for a romantic and secluded place in the forest,0,108.42284009,0,True,0,59,0,0,0,0,0,0,11.93596942,0,0,$173,0,0,0,1,1,0,0,Haiphong,$173,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,Ken's House Backpackers Downtown - Duluxe Twin Room,0,108.43500360000009,0,False,0,5,0,0,0,0,1,0,11.9403797,0,1,$60,0,0,0,1,1,0,1,Haiphong,$60,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,1,0,Hoa Dat Guesthouse - Peaceful corner between romantic city,0,108.42697572,0,False,0,8,0,0,0,0,0,0,11.93362558,0,0,$15,0,0,0,1,1,0,0,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,8,1,Pho Meo Xiem ★Dalat Center★ 4BRs & Entire House,0,108.43882782,0,True,0,58,0,0,0,0,0,0,11.9541923,0,1,$70,0,0,1,1,1,0,0,Haiphong,$70,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,1,0,0,4,0,Dốc House & Coffee shop - deluxe room,0,108.47043081,0,True,0,7,0,0,0,0,0,0,11.95431205,0,1,$38,0,0,1,1,1,0,0,Haiphong,$38,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,"Gaming: PS4 pro, computer , nitendo. Coffee shop bar and breakfast . Rose garden",0,108.46781805,0,True,0,17,0,0,0,0,1,0,11.95236411,0,1,$26,0,0,1,1,1,0,1,Haiphong,$26,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,0,La Vie est Belle - Dalat,0,108.42009014,0,True,0,15,0,0,0,0,0,0,11.93556124,0,0,$55,0,0,0,0,1,0,0,Haiphong,$55,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,0,7S Precedent Hotel Dalat,0,108.44028863,0,True,0,12,0,0,0,0,0,0,11.93489908,0,0,$23,0,0,0,0,1,0,0,Haiphong,$23,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,ROSEMARY STUDIO DALAT- Peaceful corner between romantic city,0,108.42823149,0,False,0,8,0,0,0,0,0,0,11.94193229,0,0,$29,0,0,0,1,1,0,0,Haiphong,$29,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,4,0,"HOÀNG THẮNG HOTEL, ĐÀ LẠT, LÂM ĐỒNG, VIỆT NAM",0,108.42687372,0,True,0,15,0,0,0,0,0,0,11.94704905,0,0,$350,0,0,0,1,1,0,0,Haiphong,$350,0,1,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,House,0,0,0,0,19,1,5 Bedrooms Family Home Da Lat City,0,108.43503599999995,0,True,0,29,0,0,0,0,0,0,11.9543122,0,0,$124,0,0,0,1,1,0,0,Haiphong,$124,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,2,1,The Dear House/Homestay,0,108.45115715,0,False,0,24,0,0,0,0,1,0,11.94423219,0,1,$50,0,0,1,1,1,0,1,Haiphong,$50,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,0,"7S Oppa Dalat Hotel, Đà Lạt",0,108.4481638,0,False,0,10,0,0,0,0,1,0,11.93417042,0,1,$34,0,0,1,0,1,0,1,Haiphong,$34,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,7S An Phu Da Lat Hotel,0,108.43166545,0,False,0,6,0,0,0,0,0,0,11.94218166,0,0,$33,0,0,0,1,1,0,0,Haiphong,$33,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,1,1,"""Nhà của thỏ"" - Căn hộ cho thuê",0,108.43279818,1,False,0,6,1,0,0,0,1,0,11.93128672,0,1,$150,0,0,1,1,1,0,1,Haiphong,$150,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,25,0,Biệt Thự Tuổi Trẻ Đà Lạt,0,108.42571219,0,False,0,34,0,0,0,0,0,0,11.94265109,0,0,$150,0,0,0,1,1,0,0,Haiphong,$150,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,0,Nha Cua An 2,0,108.44090974,0,True,0,24,0,0,0,0,0,0,11.95601973,0,0,"$1,304",0,0,0,0,1,0,0,Haiphong,"$1,304",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,"Ane Apartment - heart of Da Lat, cozy, modern",0,108.42540253,0,False,0,16,0,0,0,0,0,0,11.94169989,0,0,$37,0,0,0,0,1,0,0,Haiphong,$37,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,Ken's House Backpackers Downtown - Standard Double Room,0,108.43629743,0,False,0,6,0,0,0,0,0,0,11.93898528,0,1,$31,0,0,0,1,1,0,0,Haiphong,$31,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Cottage,0,0,0,0,2,0,Jevis Au Village - Deluxe Cottage 1,0,108.4234941,0,False,0,6,0,0,0,0,0,0,11.97502263,0,0,$49,0,0,0,0,1,0,0,Haiphong,$49,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,0,CoCo Hotel Kinh Chao Quy Khach,0,108.45697579,0,True,0,32,0,0,0,0,0,0,11.96368815,0,0,"$1,050",0,0,1,1,1,0,0,Haiphong,"$1,050",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,Da lat homestay - da lat viet nam -  camping at da lat,0,108.45923629999992,0,True,0,12,0,0,0,0,0,0,11.9311293,0,0,$60,0,0,0,1,1,0,0,Haiphong,$60,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,1,1,Double room share bath room with garden view,0,108.44341764,0,True,0,7,0,0,0,0,1,0,11.93317892,0,1,$15,0,0,1,1,1,0,1,Haiphong,$15,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,15,0,Sun Hills Homestay - Blue,0,108.42646979999996,0,False,0,23,0,0,0,0,0,0,11.9331608,0,0,$181,0,0,0,1,1,0,0,Haiphong,$181,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,Nice apartment in central of Dalat City,0,108.43750498,0,False,0,5,0,0,0,0,0,0,11.94317159,0,1,$50,0,1,1,1,1,0,0,Haiphong,$50,0,0,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,1,0,0,6,0,"A Nordic Design Apartment,close to the center, well prepared&super friendly host",0,108.43424704,0,True,0,18,0,0,0,0,1,0,11.95362294,0,1,$100,0,0,1,1,1,0,1,Haiphong,$100,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,1,0,Townhome,0,0,0,0,2,1,"Love, Cassie Homestay - Camellia (Attic Room)",0,108.45851349123232,1,False,0,42,1,0,0,0,1,0,11.95302944817761,0,1,$24,0,0,1,1,1,0,1,Haiphong,$24,0,1,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,Townhome,0,0,0,0,2,1,"Love, Cassie Homestay - Magnolia (Double Room)",0,108.4585671354126,0,False,0,43,0,0,0,0,0,0,11.952987463332786,0,1,$24,0,0,0,1,1,0,0,Haiphong,$24,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,1,GOm Department Beloved,0,108.42171936,0,True,0,24,0,0,0,0,0,0,11.93752173,0,0,$76,0,1,0,1,1,0,0,Haiphong,$76,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,6,0,DaLat Kaki House - 3 king beds,0,108.44331908,0,True,0,17,0,0,0,0,0,0,11.94856639,0,0,$30,0,0,0,0,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel suite,0,0,0,0,30,1,Mia Mia hostel - Park view and Free breakfast,0,108.43942252,0,True,0,9,0,0,0,0,1,0,11.94602701,0,1,$15,0,0,0,1,1,0,1,Haiphong,$15,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Townhome,0,0,0,0,2,0,"Love, Cassie Homestay - Fleur de lis (Master Room)",0,108.45853494890444,1,False,0,37,1,0,0,0,0,0,11.95301895196702,0,1,$24,0,1,0,1,1,0,0,Haiphong,$24,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,Ken's House Backpackers Downtown - Superior Family Room,0,108.43407591,0,False,0,7,0,0,0,0,0,0,11.94122426,0,1,$76,0,0,0,1,1,0,0,Haiphong,$76,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Cottage,0,0,0,0,8,1,House on the edge by #RST,0,108.4255911,0,False,0,16,0,0,0,0,1,0,11.93104704,0,1,$70,0,0,1,1,1,0,1,Haiphong,$70,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,12,0,BIG PROMO in OCT! Cozy and comfy 5 bedroom Villa,0,108.44682882380371,0,True,0,16,0,0,0,0,0,0,11.976538876516528,0,1,$149,0,0,0,1,1,0,0,Haiphong,$149,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,14,1,Wind House- place brings you back the peaceful childhoodtime,0,108.42398615,0,False,0,8,0,0,0,0,1,0,11.95288512,0,1,$8,0,0,1,1,1,0,1,Haiphong,$8,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,6,1,Villa Shalom Dalat - Entire place,0,108.44413843,0,False,0,12,0,0,0,0,1,0,11.92431496,0,0,$157,0,0,1,1,1,0,1,Haiphong,$157,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,0,Sun Hills Homestay - White - Single room 3,0,108.42976581,0,False,0,14,0,0,0,0,0,0,11.93581199,0,0,$31,0,0,0,1,1,0,0,Haiphong,$31,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,3,0,Sun Hills Homestay - White - Single room 2,0,108.42752771,0,False,0,15,0,0,0,0,1,0,11.93418369,0,1,$31,0,1,1,1,1,0,1,Haiphong,$31,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hostel,0,0,0,0,12,0,Potions Homestay is located right in city center!!!,0,108.43210509999994,0,True,0,25,0,0,0,0,0,0,11.9413726,0,1,$10,0,0,0,0,1,0,0,Haiphong,$10,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,1,0,0,10,1,Pho Meo Xiem ** Entire House** 4brs & Private,0,108.436283819574,0,True,0,43,0,0,0,0,1,0,11.951423830422112,0,1,$100,0,0,1,1,1,0,1,Haiphong,$100,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Cottage,0,0,0,0,6,0,Cottage by the hill.,0,108.42304280000008,1,True,0,6,1,0,0,0,0,0,11.9323188,0,1,$66,0,0,1,1,1,0,0,Haiphong,$66,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,Private room with Mountain View in Sapa central,0,103.84346193874454,0,True,0,12,0,0,0,0,0,0,22.331888398993556,0,0,$27,0,0,0,0,1,0,0,Haiphong,$27,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,1,0,0,4,0,Mooc Homestay - Private Room with Mountain View - Shared Bathroom,0,103.89435078227427,0,True,0,9,0,0,0,0,0,0,22.30086412101323,0,1,$13,0,0,0,1,1,0,0,Haiphong,$13,0,1,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,Phori's House - INDIGO FREEDOM,0,103.87960180000005,0,True,0,16,0,0,0,0,0,0,22.2451017,0,0,$59,0,0,0,0,1,0,0,Haiphong,$59,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,15,0,Phơri's House - THE MOUNTAINEER,0,103.89359918761896,0,True,0,28,0,0,0,0,0,0,22.300074553910708,0,0,$155,0,0,0,0,1,0,0,Haiphong,$155,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Lodge,0,0,0,0,3,0,Charming room in Muong Hoa valley-Sapa/breakfast/Infinity Pool,0,103.84039073,0,False,0,18,0,0,0,0,1,0,22.33707124,0,1,$87,0,0,0,1,1,0,1,Haiphong,$87,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,9,1,Villa By the Samu,0,103.8403688,0,False,0,39,0,0,0,0,0,0,22.3358629,0,1,$586,0,0,0,1,1,0,0,Haiphong,$586,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,0,"We will bring you simple experiences with majestic mountains, peaceful scenery",0,103.8390842,0,True,0,9,0,0,0,0,0,0,22.33481573,0,0,$5,0,0,0,0,1,0,0,Haiphong,$5,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,0,Private room in Sapa Central,0,103.84296169999992,0,True,0,7,0,0,0,0,0,0,22.33203,0,0,$17,0,0,0,0,1,0,0,Haiphong,$17,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Studio,0,0,0,0,15,0,Saigonese Villa De Sapa,0,103.83502543,0,True,0,40,0,0,0,0,0,0,22.33414096,0,1,$84,0,0,0,1,1,0,0,Haiphong,$84,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,2,1,Tavan chopai homestay - Single Room,0,103.85041689,0,True,0,22,0,0,0,0,0,0,22.33624627,0,1,$35,0,0,0,1,1,0,0,Haiphong,$35,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,16,1,Rosie House Sapa Lao,0,103.85129947,0,False,0,12,0,0,0,0,1,0,22.33506878,0,0,$34,0,0,0,0,1,0,0,Haiphong,$34,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,1,Your Home Away from Home at Ta Van Village - Family Room,0,103.89194348,0,True,0,15,0,0,0,0,0,0,22.29607739,0,1,$20,0,0,1,0,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,99,0,Peaceful Homestay - 5 min from downtown,0,103.83669436,0,True,0,24,0,0,0,0,0,0,22.34042303,0,1,$150,0,1,0,1,1,0,0,Haiphong,$150,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,0,Elephant's foot Hmong homestay,0,103.88821567,0,True,0,34,0,0,0,0,0,0,22.29722513,0,1,$17,0,0,0,1,1,0,0,Haiphong,$17,0,0,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,12,1,5 separate rooms    ,0,103.83147277,0,True,0,9,0,0,0,0,1,0,22.32614851,0,1,$15,0,0,0,1,1,0,1,Haiphong,$15,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,400,0,"Local vibe- high standard services- family, friendly staffs",0,103.83890889999998,0,False,0,48,0,0,0,0,0,0,22.3355768,0,0,$57,0,0,0,0,1,0,0,Haiphong,$57,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Chalet,0,0,0,0,3,0,Indie Homies - Attic Double Room Mountain View in Wooden Rustic Home,0,103.88476935554196,0,True,0,17,0,0,0,0,0,0,22.30411454765333,0,0,$20,0,0,0,0,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Chalet,0,0,0,0,1,1,Sapa Stilt House @Sapa Homestay-Stay like a Local,0,103.85227032602846,1,True,0,19,1,0,0,0,0,0,22.37729969501107,0,1,$14,0,0,0,1,1,0,0,Haiphong,$14,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,0,Phor's House on the Hill - Room #4,0,103.89576668,0,True,0,8,0,0,0,0,0,0,22.3004417,0,0,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Tavan Chopai Homestay - Double room,0,103.85001424,0,True,0,19,0,0,0,0,1,0,22.32878444,0,1,$10,0,0,0,0,1,0,1,Haiphong,$10,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Resort,0,0,0,0,350,1,"Local vibe- high standard services- family, friendly staffs",0,103.8386188,0,False,0,32,0,0,0,0,0,0,22.33945481,0,1,$50,0,0,0,1,1,0,0,Haiphong,$50,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,9,0,Villas on the rock,0,103.8403688,0,False,0,33,0,0,0,0,0,0,22.3358629,0,0,$498,0,0,0,0,1,0,0,Haiphong,$498,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Bungalow,0,0,0,0,15,1,Double room in Miku house,0,103.89676955,1,False,0,16,1,0,0,0,0,0,22.31028586,0,1,$20,0,1,0,1,1,0,0,Haiphong,$20,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,0,Phori's House Bamboo Forest - Room #3,0,103.88474994,0,True,0,8,0,0,0,0,0,0,22.30551931,0,0,$45,0,0,0,0,1,0,0,Haiphong,$45,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,0,Indigo Snail Boutique Hmong homestay,0,103.88924136,0,True,0,7,0,0,0,0,0,0,22.28070572,0,1,$25,0,1,0,1,1,0,0,Haiphong,$25,0,1,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,0,Phori's House Bamboo Forest - The Family Room,0,103.89283509,0,False,0,7,0,0,0,0,0,0,22.30063725,0,0,$55,0,0,0,0,1,0,0,Haiphong,$55,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Guest house,0,0,0,0,2,0,Private Room #2 - Indigo Snail Boutique Homestay,0,103.89945786,0,True,0,7,0,0,0,0,0,0,22.24491227,0,0,$25,0,0,0,0,1,0,0,Haiphong,$25,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,Beautiful Sapa Boutique  Hotel,0,103.83938895945744,0,False,0,42,0,0,0,0,1,0,22.335232510939584,0,1,$35,0,0,1,0,1,0,1,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,40,1,Sapa Bamboo Homestay with the nature and near the Sapa town,0,103.85083944,0,False,0,8,0,0,0,0,1,0,22.32196134,0,0,$10,0,0,0,0,1,0,1,Haiphong,$10,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,1,Lien Minh Hostel & Homestay - Budget Double Room,0,103.84229687,0,True,0,13,0,0,0,0,0,0,22.33186713,0,1,$11,0,0,0,1,1,0,0,Haiphong,$11,0,1,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,0,Canary Homestay - Alive with your style of living in the heart of Hue City Cente,0,107.58991787483406,0,True,0,11,0,0,0,0,0,0,16.460060090657656,0,1,$58,0,1,0,0,1,0,0,Haiphong,$58,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,2,0,"Canary Hotel - ""Cheapest"" rooms in the Hue City Center - ""Easy walking"" to visit",0,107.59715789999996,0,True,0,8,0,0,0,0,0,0,16.4714192,0,0,$15,0,0,0,0,1,0,0,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,trufudtrudeynset6aw46ttsetysetysey,0,107.59938536,0,True,0,6,0,0,0,0,0,0,16.46236446,0,1,"$7,000",0,1,1,1,1,0,0,Haiphong,"$7,000",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,3,1,Meditation Studio - Hillside homestay Hue,0,107.57732286679538,0,True,0,10,0,0,0,0,0,0,16.445021085873936,0,1,$26,0,0,0,0,1,0,0,Haiphong,$26,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,1,1,"Quiet, ancient ambient place",0,107.58240350000004,1,False,0,10,1,0,0,0,0,0,16.4744247,0,0,$27,0,0,0,1,1,0,0,Haiphong,$27,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,3,0,Triple Room with Hill View(03 people),0,107.57358641,1,True,0,15,1,0,0,0,1,0,16.43953179,0,1,$13,0,0,1,1,1,0,1,Haiphong,$13,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,2,0,An Homestay Hue - Train station walking,0,107.58805183,0,False,0,7,0,0,0,0,1,0,16.45511327,0,0,$70,0,0,1,0,1,0,0,Haiphong,$70,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,7,1,DE LA LUNA -A gorgeous gem in the heart of Hue -3BRs-Exclusive Rooftop Garden+++,0,107.60205428,0,True,0,47,0,0,0,0,0,0,16.4702321,0,0,$64,0,0,0,1,1,0,0,Haiphong,$64,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,0,0,0,5,1,HOME 2 - Second Floor with 2 bedrooms(05 people),0,107.57357049,1,True,0,18,1,0,0,0,1,0,16.44057773,0,0,$21,0,0,1,1,1,0,1,Haiphong,$21,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,1,Promotion Hue Rustic Homestay - Apartment 4 person,0,107.61926192,0,True,0,6,0,0,0,0,0,0,16.46538087,0,1,$55,0,0,0,1,1,0,0,Haiphong,$55,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Chalet,0,0,0,0,7,0,Trang a precious host family,0,105.95175766,0,True,0,49,0,0,0,0,0,0,20.26536597,0,0,$16,0,0,0,0,1,0,0,Haiphong,$16,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,6,0,Ninh Binh Paradise Apartment,0,105.96438690000002,0,True,0,30,0,0,0,0,0,0,20.2733332,0,1,$45,0,0,1,1,1,0,0,Haiphong,$45,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,2,0,Homestay Ninh Binh 165,0,105.95208162195117,0,False,0,26,0,0,0,0,0,0,20.2480330095942,0,1,$15,0,0,0,0,1,0,0,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,2,0,Ninh Binh Valle Montana Homestay - Superior(2 paxs),0,105.9351818252228,0,True,0,29,0,0,5,0,0,0,20.246873191451556,0,1,$15,1,0,1,1,1,0,0,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,0,0,0,2,0,"Bungalow with garden view 5 min to Tam Coc and many shop, restaurant...",0,105.93948682,0,True,0,16,0,0,5,0,0,0,20.21454916,0,0,$20,1,0,0,0,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,35,0," Tam Coc relax homestay is always friendly, enthusiastic and attentive",0,105.93521834,0,True,0,24,0,0,0,0,0,0,20.21929147,0,1,$35,0,0,0,0,1,0,0,Haiphong,$35,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,11,0,"Tuyet's homestay is a small house, where is from Ninh Binh centre about 6km",0,105.93426751,0,False,0,13,0,0,0,0,0,0,20.23319469,0,1,$13,0,0,0,1,1,0,0,Haiphong,$13,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,3,0,Trang An Mountain House - Bungalow Deluxe with garden view - Ninh Binh,0,105.92198308,0,True,0,9,0,0,0,0,0,0,20.25285659,0,0,$55,0,0,0,0,1,0,0,Haiphong,$55,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Country house/chateau,0,0,0,0,2,1,"Zuli Zen Home, Moutain view- next to Tam coc town.",0,105.93950441191714,1,False,0,13,1,0,0,0,0,0,20.22020292506617,0,1,$20,0,0,0,1,1,0,0,Haiphong,$20,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,Garden Homestay Ninh Bình - Double Room with Mountain view,0,105.87787527,0,False,0,8,0,0,0,0,0,0,20.3543643,0,0,$16,0,0,0,1,1,0,0,Haiphong,$16,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,Van Long Homestay Double Room,0,105.89729310000008,1,True,0,11,1,0,0,0,1,0,20.3521382,0,0,$25,0,0,0,1,1,0,1,Haiphong,$25,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,0,0,0,10,1,"✩Little Tam Coc homestay w nature  style House build with indochine concepts,",0,105.93110109999998,0,True,0,6,0,0,0,0,0,0,20.2170922,0,1,$500,0,0,1,1,1,0,0,Haiphong,$500,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Farmhouse,0,1,0,0,9,0,Amira Homestay - Home from home,0,105.93241049,0,False,0,21,0,0,0,0,0,0,20.21696712,0,1,$28,0,0,1,1,1,0,0,Haiphong,$28,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Garden Homestay Ninh Bình - Family Room with Balcony,0,105.88223376,0,False,0,8,0,0,0,0,0,0,20.35902126,0,1,$33,0,0,0,1,1,0,0,Haiphong,$33,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bungalow,0,0,0,0,5,0,Tam  coc  palm house,0,105.92520387,0,False,0,12,0,0,0,0,1,0,20.21457723,0,0,$23,0,0,1,1,1,0,1,Haiphong,$23,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Garden Homestay Ninh Binh,0,105.87926096,0,False,0,8,0,0,0,0,0,0,20.35929165,0,0,$16,0,0,0,0,1,0,0,Haiphong,$16,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,3,1,Superior - Riverview(2 paxs)_Ninh Binh Valle Montana homestay,0,105.93523099999992,0,True,0,14,0,0,0,0,1,0,20.2465965,0,1,$18,0,0,1,1,1,0,1,Haiphong,$18,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,1,0,Family(4 paxs)_Mountain View,0,105.92296621,0,True,0,15,0,0,0,0,0,0,20.24447262,0,0,$28,0,0,0,0,1,0,0,Haiphong,$28,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,Van Long Homestay-Family Room,0,105.89727164232796,0,False,0,20,0,0,0,0,0,0,20.3523695583287,0,1,$29,0,0,0,1,1,0,0,Haiphong,$29,0,1,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,7,1,My Hoa Oceanfront Home,0,109.1489311,0,True,0,10,0,0,0,0,1,0,11.61391,0,0,$75,0,0,1,1,1,0,1,Haiphong,$75,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,10,1,Your Home Phan Rang - Sea view aparment,0,109.01454219,0,True,0,17,0,0,0,0,0,0,11.5637578,0,1,$32,0,0,0,1,1,0,0,Haiphong,$32,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,3,0,Exclusive Oceanfront Bungalow with infinity swimming pool,0,109.05924557545472,0,True,0,15,0,0,0,0,0,0,11.584100782752149,0,0,$250,0,0,0,0,1,0,0,Haiphong,$250,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Country house/chateau,0,0,0,0,16,1,"A homey homestay in a typical Vietnamese countryside, lovely price.",0,108.97254863,0,False,0,13,0,0,0,0,0,0,11.65630536,0,1,$100,0,0,0,1,1,0,0,Haiphong,$100,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,#ASeaLover Homestay - Entire seaview furnished apartment for up to 5 guests,0,109.01688398,1,True,0,11,1,0,0,0,1,0,11.56856574,0,1,$32,0,0,1,1,1,0,1,Haiphong,$32,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,The apartment 3 bedrooms and 2 balconies with fully furniture located in central,0,108.99391838,0,True,0,18,0,0,0,0,0,0,11.5723236,0,1,$70,0,0,0,1,1,0,0,Haiphong,$70,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,12,1,Full Villa for rent in Phan Rang - Ninh Thuan,0,109.00086262963872,0,False,0,11,0,0,0,0,0,0,11.569804506811446,0,0,$99,0,0,0,1,1,0,0,Haiphong,$99,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,"Lovely 3 bedrooms with 2 balconies, center of city, 5min to the beach",0,108.9966688,0,True,0,51,0,0,0,0,1,0,11.57270161,0,1,$75,0,0,1,1,1,0,0,Haiphong,$75,0,1,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,"Family room with River and Mountain Views, 2 Queen Beds_Funny Monkeys Homestay",0,106.30272620642268,0,True,0,16,0,0,0,0,0,0,17.61038788290912,0,0,$17,0,0,0,1,1,0,0,Haiphong,$17,0,1,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,House,0,0,0,0,3,0,Greenfield Ecostay - Duluxe Double Field Room - Quang Binh,0,106.3036851,0,True,0,12,0,0,0,0,0,0,17.60947443,0,1,$39,0,1,1,1,1,0,0,Haiphong,$39,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,0,Superior Triple Room in 4 star Hotel,0,106.62854826,0,False,0,15,0,0,0,0,0,0,17.48681094,0,0,$38,0,0,1,0,1,0,0,Haiphong,$38,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,6,0,Green Land Backpackers Hostel- Triple Bed & Mountain View,0,106.30045499,1,True,0,10,1,0,0,0,0,0,17.60483444,0,1,$16,0,0,0,1,1,0,0,Haiphong,$16,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,"The Paddy Shack - Live local, eat local food, have local experience",0,106.60752952,0,False,0,13,0,0,0,0,1,0,17.50484057,0,1,$70,0,0,1,1,1,0,1,Haiphong,$70,0,0,1,0,0,0,1
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,1,"Family room with River and Mountain Views, 2 Queen Beds_Funny Monkeys Homestay",0,106.30272620642268,0,True,0,16,0,0,0,0,0,0,17.61038788290912,0,0,$17,0,0,0,1,1,0,0,Haiphong,$17,0,1,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,House,0,0,0,0,3,0,Greenfield Ecostay - Duluxe Double Field Room - Quang Binh,0,106.3036851,0,True,0,12,0,0,0,0,0,0,17.60947443,0,1,$39,0,1,1,1,1,0,0,Haiphong,$39,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,0,Superior Triple Room in 4 star Hotel,0,106.62854826,0,False,0,15,0,0,0,0,0,0,17.48681094,0,0,$38,0,0,1,0,1,0,0,Haiphong,$38,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Bed & breakfast,0,0,0,0,6,0,Green Land Backpackers Hostel- Triple Bed & Mountain View,0,106.30045499,1,True,0,10,1,0,0,0,0,0,17.60483444,0,1,$16,0,0,0,1,1,0,0,Haiphong,$16,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,"The Paddy Shack - Live local, eat local food, have local experience",0,106.60752952,0,False,0,13,0,0,0,0,1,0,17.50484057,0,1,$70,0,0,1,1,1,0,1,Haiphong,$70,0,0,1,0,0,0,1
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,3,0,Đồi House - Love Room - Moc Chau - Son La - Viet Nam,0,104.64285281,1,True,0,6,1,0,0,0,1,0,20.84453647,0,1,$22,0,0,0,1,1,0,1,Haiphong,$22,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Homestay Hai Hau - Single room - Moc Chau - Son La,0,104.6326913,1,True,0,7,1,0,0,0,1,0,20.82686619,0,0,$20,0,0,0,1,1,0,1,Haiphong,$20,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Studio,0,0,0,0,3,0,Đồi House - Lovely Room - Moc Chau - Son La - Viet Nam,0,104.64271869,1,True,0,10,1,0,0,0,1,0,20.84607521,0,1,$25,0,0,0,1,1,0,0,Haiphong,$25,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Homestay Nam Cuong - Double room,0,104.63025237,1,False,0,8,1,0,0,0,0,0,20.81934477,0,1,$24,0,0,0,1,1,0,0,Haiphong,$24,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Moc Chau Ecolodge - Single room,0,104.69873294,0,True,0,7,0,0,0,0,0,0,20.80122945,0,0,$18,0,0,0,0,1,0,0,Haiphong,$18,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,21,1,SB93 Villa,0,105.9227685,1,True,0,20,1,0,,0,1,0,19.7702777,0,1,$271,,0,0,1,1,0,1,Haiphong,$271,0,0,1,0,1,0,0
+0,0,0,1,1,0,0,0,0,0,House,0,1,0,0,21,1,SB93 Villa,0,105.92058922,0,True,0,9,0,0,,0,0,0,19.77071246,0,1,$271,,0,1,1,1,0,0,Haiphong,$271,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,16,1,Summer Villa Flc Sam Son ,0,105.91919232250666,0,False,0,23,0,0,,0,0,0,19.766414174431898,0,0,$150,,0,0,1,1,0,0,Haiphong,$150,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,36,0,Bamboo Villa - Sam Son - Thanh Hoa,0,105.91845754,0,True,0,9,0,0,,0,1,0,19.76944961,0,1,$849,,0,1,1,1,0,1,Haiphong,$849,0,1,1,0,1,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,1,1,0,0,0,0,0,Villa,0,0,0,0,10,1,Flamingo Resort Happy Villa hq9-Starlight home with pool,0,105.7173767,0,True,0,39,0,0,0,0,0,0,21.3393034,0,1,$100,0,0,0,1,1,0,0,Haiphong,$100,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,20,1,THE DECK - Dai Lai - Best place to relax,0,105.75266605,1,False,0,8,1,0,0,0,1,0,21.34459184,0,1,$218,0,0,0,1,1,0,1,Haiphong,$218,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,Flamingo Dai Lai Bach Yen T111 Villa,0,105.713928,0,False,0,18,0,0,0,0,1,0,21.337379,0,1,$90,0,0,1,1,1,0,1,Haiphong,$90,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,12,0,Sun Hillary Flamingo Đại Lải,0,105.74144599,1,True,0,11,1,0,0,0,0,0,21.32889021,0,1,$200,0,0,1,1,1,0,0,Haiphong,$200,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,15,0,Venus Resort Flamingo,0,105.68604579,0,True,0,38,0,0,0,0,0,0,21.36601581,0,0,$510,0,0,0,1,1,0,0,Haiphong,$510,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,30,0,Royal Villa D14 Tam Dao Golf & Resort,0,105.63244938,0,True,0,45,0,0,0,0,0,0,21.40433271,0,0,"$1,100",0,0,0,0,1,0,0,Haiphong,"$1,100",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,26,0,Beautiful golf villa in Tam Dao golf course ,0,105.6441852,0,True,0,14,0,0,0,0,1,0,21.4532302,0,1,"$1,000",0,0,1,1,1,0,1,Haiphong,"$1,000",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,14,0,Flamingo Skylake Villa,0,105.70792283,0,True,0,15,0,0,0,0,0,0,21.33254629,0,1,$300,0,0,0,1,1,0,0,Haiphong,$300,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,2,0,Deluxe Hilltop Villa in Flamingo Dai Lai Resort,0,105.68636477,0,False,0,19,0,0,0,0,1,0,21.25692663,0,1,$150,0,0,1,1,1,0,1,Haiphong,$150,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,15,0,E52 Homestay Tam Đảo,0,105.63112319,0,False,0,7,0,0,0,0,0,0,21.41130464,0,0,$363,0,0,0,1,1,0,0,Haiphong,$363,0,0,1,0,0,0,0
+High_chair,Workspace,Lock_on_door,Pool,Beach,pdpUrlType,Snowflake,View_ocean,No_detector_co2,Jacuzzi,roomTypeCategory,weeklyPriceFactor,Tv,Surveillance,Bath,maxGuestCapacity,Wash,name,Sauna,Longitude,Smoking_allowed,canInstantBook,listingObjType,contextualPicturesCount,No_detector_smoke,Luggage_drop,avgRatingLocalized,Pets,Cooking_basics,Ev_charger,Latitude,No_lock_on_door,Hair_dryer,price,reviewCount,Elevator,Refrigetor,Wifi,isSuperHost,Toys,Microwave,city,structuredStayDisplayPrice,Patio_Balcony,Dryer,View_city,isVerified,Fire_place,Flower,Car_rental
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,1,"★ APT 108m2, 5mins walk to the beach ★",0,107.08356225,0,True,0,11,0,0,0.0,0,1,0,10.33273414,0,0,$60,0,0,0,1,1,0,1,Haiphong,$60,0,1,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,House,0,0,0,0,9,1,High Quality with Reasonable Price,0,106.61241805,0,True,0,33,0,0,0.0,0,1,0,8.69716495,0,1,$35,0,0,1,1,1,0,1,Haiphong,$35,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,3,1,"Tranquil furnished condo, lake & seaview from bed",0,107.08922393942566,0,True,0,17,0,0,5.0,0,0,0,10.341280323625782,0,0,$20,1,1,0,1,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Apartment,0,0,0,0,5,0,KHouse with beautiful sea view,0,107.11395884,0,False,0,7,0,0,0.0,0,0,0,10.37654488,0,0,$59,0,0,0,1,1,0,0,Haiphong,$59,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,The moon apartment ( Vung Tau ),0,107.0882047,0,True,0,13,0,0,0.0,0,0,0,10.3397288,0,0,$32,0,0,0,1,1,0,0,Haiphong,$32,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,12,1,3 bedroom beach resort apartment,0,107.08480951,1,True,0,9,1,0,0.0,0,1,0,10.33646581,0,1,$80,0,1,1,1,1,0,1,Haiphong,$80,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,14,1,The Most Exclusive & Comfortable Beach Front Condo in Vung Tau,0,107.09622651407778,0,True,0,8,0,0,4.0,0,0,0,10.345787814972256,0,0,$218,1,0,0,1,1,0,0,Haiphong,$218,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,1,Blue Sapphire Resort Vung Tau,0,107.12794003093268,0,True,0,42,0,0,5.0,0,1,0,10.374180529896266,0,0,$86,1,0,1,0,1,0,1,Haiphong,$86,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,4 Bedrooms Greenhouse Villa,0,107.08002529,1,True,0,10,1,0,0.0,0,0,0,10.333427,0,0,$147,0,1,0,1,1,0,0,Haiphong,$147,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,HOMEAWAY - MELODY VUNG TAU,0,107.08583249999992,0,True,0,20,0,0,5.0,0,0,0,10.3343764,0,0,$46,1,0,0,1,1,0,0,Haiphong,$46,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,20,1,Villa Hồ Bơi LẠC LONG QUÂN,0,107.0831278,0,True,0,18,0,0,1.0,0,0,0,10.3336098,0,0,$200,2,0,0,1,1,0,0,Haiphong,$200,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,0,BlueBeautiful seaview&garden view Apartment Vung Ttau,0,107.12784006925052,0,False,0,48,0,0,4.3333335,0,0,0,10.373824974416854,0,0,$81,3,0,0,1,1,0,0,Haiphong,$81,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,The Beachhouse Villa- 4 bedrooms villa,0,107.08334391,0,True,0,22,0,0,0.0,0,0,0,10.33405922,0,0,$242,0,1,0,1,1,0,0,Haiphong,$242,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,10,1,Suna's HOME - Villa is in Vung Tau beach.,0,107.08199693444226,1,True,0,24,1,0,0.0,0,1,0,10.336514565554287,0,1,$85,0,1,1,1,1,0,1,Haiphong,$85,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,1,0,0,20,1,Villa Hồ Bơi LINH CHI,0,107.1250889,1,True,0,15,1,0,0.0,0,1,0,10.3730779,0,1,$250,0,1,1,1,1,0,1,Haiphong,$250,0,1,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,14,1,Vung Tau Beach Homestay - Villa,0,107.09731409999996,1,True,0,30,1,0,0.0,0,1,0,10.3520335,0,1,$211,0,0,1,1,1,0,1,Haiphong,$211,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,1,0,House,0,1,0,0,29,1,HOMESTAY SUNRISE 6 BEDROOMS NEAR BACK BEACH,0,107.09260693,1,True,0,12,1,0,0.0,0,1,0,10.35016197,0,1,$50,0,1,1,1,1,0,1,Haiphong,$50,0,1,1,0,1,0,1
+0,0,0,1,1,0,0,0,1,0,Villa,0,0,0,0,16,1,CARIBE VILLA VUNG TAU 150m from the Back beach,0,107.09614012355657,1,True,0,28,1,0,0.0,0,0,0,10.347148621593716,0,1,$140,0,1,1,1,1,0,0,Haiphong,$140,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,20,0,"Beach view villa, private pool, near famous tourist attractions.",0,107.25805887,0,True,0,6,0,0,0.0,0,0,0,10.38932238,0,0,"$1,089",0,0,0,1,1,0,0,Haiphong,"$1,089",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,15,1,PREMIUM BEACH CONDOTEL,0,107.09239034,1,True,0,13,1,0,5.0,0,1,0,10.34605089,0,1,$107,1,1,1,1,1,0,1,Haiphong,$107,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,12,0,3 bedrooms Blue Sapphire Resort Vung Tau,0,107.127534,0,False,0,44,0,0,0.0,0,1,0,10.374588,0,0,$186,0,0,1,1,1,0,1,Haiphong,$186,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Condo,0,0,0,0,1,0,Palm Rooftop Homestay with SeaView,0,107.08670641,0,True,0,18,0,0,0.0,0,0,0,10.33566941,0,0,$43,0,0,0,0,1,0,0,Haiphong,$43,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,40,1,Mona Villa 04 - Beach behind,0,107.0932543,0,True,0,46,0,0,0.0,0,0,0,10.34614974,0,1,$200,0,1,1,1,1,0,0,Haiphong,$200,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Villa,0,0,0,0,15,0,Suna's Home - Villa in Vung Tau,0,107.0826607,0,True,0,50,0,0,0.0,0,0,0,10.33694,0,0,$143,0,0,0,0,1,0,0,Haiphong,$143,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,16,1,Vihomes villa WELCOME TO YOU.,0,107.097729633374,0,True,0,84,0,0,2.0,0,0,0,10.351190898760814,0,1,$210,1,0,0,0,1,0,0,Haiphong,$210,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,0,0,0,9,1,"KEN'S HOMESTAY - A cozy, beautiful and private house.",0,107.0888389,0,True,0,19,0,0,0.0,0,1,0,10.37436466,0,1,$35,0,1,1,0,1,0,1,Haiphong,$35,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,35,0,Villa Hồ Bơi HOÀNG MY,0,107.07340619,0,True,0,39,0,0,1.0,0,0,0,10.33949898,0,0,$250,1,0,0,0,1,0,0,Haiphong,$250,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,15,1,★ H.T luxury Villa in the heart of Vung Tau ★,0,107.08837857,0,True,0,17,0,0,0.0,0,0,0,10.3750024,0,1,$260,0,0,0,0,1,0,0,Haiphong,$260,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,6,1,DOUBLE ROOM - 50m TO THE BEACH,0,106.60770964,0,True,0,10,0,0,0.0,0,0,0,8.6852434,0,0,$21,0,1,0,1,1,0,0,Haiphong,$21,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,1,0,"Nam Dinh Homestay located at Vo Thi Sau Street, nearby  200m from Con Dao market",0,106.60795318968805,1,True,0,25,1,0,0.0,0,0,0,8.687784048126002,0,1,$20,0,1,1,1,1,0,0,Haiphong,$20,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,BIG SALE 33% Luxury 2beds Apart The Sóng Vũng Tàu,0,107.09463532,0,True,0,45,0,0,0.0,0,0,0,10.34800518,0,0,$76,0,0,0,1,1,0,0,Haiphong,$76,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,3,0,Seaside garden in Long Cung beach.,0,107.1227847873,0,False,0,15,0,0,0.0,0,0,0,10.374601938278875,0,0,$26,0,0,0,1,1,0,0,Haiphong,$26,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,2,0,Luxury Apartment with Sea breeze,0,107.08624439999994,0,True,0,6,0,0,0.0,0,0,0,10.3369903,0,0,$40,0,0,0,1,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,9,1,Kati Beach Villa in the Oceanami Resort & Residence,0,107.25927759,0,True,0,6,0,0,0.0,0,0,0,10.38345799,0,0,$221,0,0,0,1,1,0,0,Haiphong,$221,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Cabin,0,1,0,0,2,1,Phòng ống cabin Sân vườn,0,107.09370311,0,False,0,6,0,0,0.0,0,0,0,10.35892624,0,0,$19,0,0,0,1,1,0,0,Haiphong,$19,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,0,"BlaBla Orange 02 - A room for Friends, Family",0,107.0952275,0,True,0,7,0,0,0.0,0,0,0,10.3591256,0,0,$9,0,0,0,0,1,0,0,Haiphong,$9,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,0,Sora Home 2BR Panoramic Ocean View,0,107.09805967,0,True,0,16,0,0,0.0,0,0,0,10.34499818,0,1,$51,0,1,1,1,1,0,0,Haiphong,$51,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Hotel,0,0,0,0,1,1,7S Blue Sea Hotel & Apartment,0,107.08188455,0,True,0,18,0,0,0.0,0,0,0,10.34006471,0,1,$17,0,0,1,1,1,0,0,Haiphong,$17,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,1,0,Luxury Beachfront villa - 3BR w private pool and outdoor BBQ,0,107.43368635,1,True,0,15,1,0,0.0,0,1,0,10.4736008,0,0,$521,0,1,0,0,1,0,1,Haiphong,$521,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,15,1,Sinhvu Three Bedroom Apartment,0,107.09414800000002,1,False,0,11,1,0,0.0,0,1,0,10.3478478,0,1,$102,0,1,1,1,1,0,1,Haiphong,$102,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,2,0,BlaBla Orange 05 - Couple Room,0,107.09666731,0,True,0,8,0,0,0.0,0,0,0,10.35657931,0,0,$9,0,0,0,1,1,0,0,Haiphong,$9,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,Leos House - A centre appartment,0,107.08612597672118,0,False,0,16,0,0,0.0,0,0,0,10.337083692291412,0,0,$23,0,0,0,1,1,0,0,Haiphong,$23,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,0,Pooh Homstay 3 is 3 bedrooms apt with spacious sea view and see breeze,0,107.095001,1,False,0,17,1,0,0.0,0,1,0,10.34458651,0,0,$85,0,1,1,1,1,0,1,Haiphong,$85,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,0,SEAVIEW BLUE SAPPHIRE RESORT APARTMENT,0,107.12553200000002,0,False,0,48,0,0,5.0,0,1,0,10.3764125,0,0,$84,1,0,1,1,1,0,1,Haiphong,$84,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,7,1,Luxury Home center Vung Tau near Beach,0,107.08604625,0,True,0,23,0,0,0.0,0,1,0,10.33037368,0,1,$55,0,0,1,1,1,0,1,Haiphong,$55,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,8,1,Seaside garden in LongCung Beach.,0,107.1228160799568,0,True,0,20,0,0,0.0,0,0,0,10.374555327621596,0,1,$73,0,0,0,0,1,0,0,Haiphong,$73,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,1,Friendly host looking for polite guests,0,107.0861342485141,0,False,0,7,0,0,0.0,0,0,0,10.337223541271747,0,0,$36,0,1,0,1,1,0,0,Haiphong,$36,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,7,0,"Lakeside, seafront comfort Apartment",0,107.10913021,0,True,0,15,0,0,0.0,0,0,0,10.37705317,0,0,$45,0,0,0,1,1,0,0,Haiphong,$45,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,0,"A17-16th Floor, Sen's home",0,107.08736242,0,True,0,21,0,0,0.0,0,1,0,10.33537845,0,0,$27,0,0,1,1,1,0,1,Haiphong,$27,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,House,0,1,0,0,4,1,Bee House - Local home in the heart of Vungtau,0,107.0774844,1,False,0,8,1,0,0.0,0,1,0,10.34595523,0,1,$14,0,1,1,1,1,0,1,Haiphong,$14,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,40,0,Our villa has all the facilities to make you satisfied.,0,107.07790356,0,True,0,12,0,0,0.0,0,0,0,10.35105185,0,1,"$1,500",0,0,1,0,1,0,0,Haiphong,"$1,500",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,4,1,Bee House - Local home in the heart of Vungtau,0,107.0774844,0,False,0,8,0,0,0.0,0,0,0,10.34595523,0,1,$14,0,0,1,1,1,0,0,Haiphong,$14,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,Sea View Apt in Vung Tau Island,0,107.08991834356698,1,False,0,15,1,0,0.0,0,1,0,10.340144285725971,0,1,$121,0,1,1,1,1,0,1,Haiphong,$121,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,1,Vui Hotel and Apartment offer you great space for stay with good price,0,107.08305521,0,False,0,22,0,0,0.0,0,0,0,10.33814506,0,0,$15,0,1,0,1,1,0,0,Haiphong,$15,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,0,Luxury LaRomance Studio with sea view,0,107.11236692,0,True,0,12,0,0,0.0,0,0,0,10.37330179,0,1,$34,0,0,1,1,1,0,0,Haiphong,$34,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,1,HOMESTAY SEAVIEW APARTMENT VUNG TAU CITY,0,107.12553200000002,0,False,0,47,0,0,0.0,0,0,0,10.3764125,0,0,$84,0,1,0,1,1,0,0,Haiphong,$84,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,House,0,0,0,0,8,1,Room for rent @ 2 Min walking distance to the beach,0,107.08865531,0,True,0,6,0,0,0.0,0,1,0,10.32836008,0,1,$45,0,1,1,1,1,0,1,Haiphong,$45,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,5,0,SEAVIEW WINNER POOL VILLA,0,107.06267842,0,True,0,6,0,0,0.0,0,0,0,10.35131616,0,0,$300,0,0,0,0,1,0,0,Haiphong,$300,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,10,1,"VG Villa 5 Bedrooms (1200 sq) is enchanting villa, nearby Long Hai beach ",0,107.2281163,0,True,0,49,0,0,0.0,0,0,0,10.4652976,0,0,$178,0,1,0,1,1,0,0,Haiphong,$178,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,4,0,Tuyệt Đỉnh Cốc  Homestay,0,107.07130486,0,True,0,16,0,0,0.0,0,0,0,10.36680829,0,0,$69,0,0,0,0,1,0,0,Haiphong,$69,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,25,1,Mona Villa 01 - Beach behind,0,107.09349794,1,True,0,44,1,0,0.0,0,1,0,10.35011772,0,1,$200,0,1,1,1,1,0,1,Haiphong,$200,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Building,0,0,0,0,4,0,A beach exited apartment,0,107.09358058,1,True,0,7,1,0,0.0,0,0,0,10.35105894,0,0,$75,0,0,0,1,1,0,0,Haiphong,$75,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,0,Besties Homestay You will have great time in here 👌👌👌,0,107.08293155,0,True,0,12,0,0,0.0,0,1,0,10.33470402,0,0,$40,0,0,1,1,1,0,1,Haiphong,$40,0,0,1,0,0,0,1
+0,0,0,0,1,0,0,0,1,0,Apartment,0,0,0,0,4,1,"Studio Apartment, CSJ Tower, view beach, Vũng Tàu",0,107.0995549,1,True,0,11,1,0,0.0,0,1,0,10.3512155,0,0,$60,0,1,1,1,1,0,1,Haiphong,$60,0,0,1,0,1,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,2 bedrooms Colosseo Melody Apartment A5-8,0,107.08415284,0,True,0,37,0,0,0.0,0,0,0,10.33911193,0,0,$40,0,0,0,0,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,15,0,Son thinh hotel-apartment 5 Min walking distance to Vung Tau Beach. High Flr,0,107.08997842,0,True,0,6,0,0,0.0,0,0,0,10.33247106,0,0,$28,0,0,0,1,1,0,0,Haiphong,$28,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,Lablue - Beautiful seaview from top,0,107.08586919999992,0,False,0,14,0,0,0.0,0,1,0,10.3343679,0,1,$30,0,1,0,1,1,0,1,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,14,1,Villa Vng Tu Trn Ph Sang Trng .y,0,107.13622399999996,1,False,0,18,1,0,0.0,0,1,0,10.4113797,0,1,$200,0,1,1,1,1,0,1,Haiphong,$200,0,0,1,0,0,0,0
+0,0,0,1,1,0,0,0,0,0,Villa,0,0,0,0,20,1,Villa. 231 Lon Hong Fong,0,107.08970985,1,True,0,51,1,0,0.0,0,1,0,10.34929015,0,1,$900,0,0,0,1,1,0,1,Haiphong,$900,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,5,0,Forny Rose Homestay No.2,0,107.0858855,0,False,0,25,0,0,0.0,0,0,0,10.33102058,0,0,$129,0,0,0,0,1,0,0,Haiphong,$129,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,5,1,Forny Rose Homestay No.2,0,107.0858855,0,False,0,25,0,0,0.0,0,0,0,10.33102058,0,0,$129,0,1,0,1,1,0,0,Haiphong,$129,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,0,Căn hộ Chung cư - Vũng Tàu,0,107.08926029999998,0,False,0,7,0,0,0.0,0,0,0,10.3413436,0,0,$130,0,0,0,0,1,0,0,Haiphong,$130,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,25,1,With Forny Rose Homestay you will feel friendly and comfortable as your home,0,107.08621166,0,False,0,32,0,0,0.0,0,0,0,10.3355569,0,0,"$2,018",0,0,1,1,1,0,0,Haiphong,"$2,018",0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,7,0,Tropical Apartment with Seaview (2-bedroom),0,107.08991877,0,False,0,6,0,0,0.0,0,0,0,10.34144772,0,0,$40,0,0,0,1,1,0,0,Haiphong,$40,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,12,1,Villa 4 bedroom river view with private pool,0,107.43644995,0,True,0,12,0,0,0.0,0,0,0,10.47639615,0,0,$650,0,0,1,1,1,0,0,Haiphong,$650,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,6,0,Leos House - A centre appartment,0,107.08360646,0,False,0,18,0,0,0.0,0,0,0,10.33788981,0,0,$18,0,0,0,0,1,0,0,Haiphong,$18,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,1,1,Feel Free as your home,0,107.07970486,0,False,0,7,0,0,0.0,0,0,0,10.36012138,0,0,$100,0,0,0,1,1,0,0,Haiphong,$100,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,4,1,SEASIDE WINNER VILLA,0,107.1282514,0,True,0,6,0,0,0.0,0,0,0,10.3752473,0,0,$300,0,0,0,1,1,0,0,Haiphong,$300,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,8,1,Make you feel like home,0,107.08583249999992,0,True,0,17,0,0,0.0,0,1,0,10.3343764,0,1,$65,0,1,1,1,1,0,1,Haiphong,$65,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,30,1,"T-Maison Villa, Mediterranean style, Near Beach",0,107.11437324,0,True,0,42,0,0,0.0,0,1,0,10.38117504,0,1,$228,0,0,1,1,1,0,1,Haiphong,$228,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,1,0,0,16,1,12 cute clean and nice Villa in Vung Tau,0,107.0660024661621,0,False,0,49,0,0,0.0,0,0,0,10.352061326298308,0,1,$710,0,0,1,1,1,0,0,Haiphong,$710,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,1,0,0,10,1,Pooh Homestay 5 - 2 Bedrooms Apt near Back Beach,0,107.09328328,0,False,0,16,0,0,0.0,0,1,0,10.34629056,0,1,$49,0,0,1,1,1,0,1,Haiphong,$49,0,1,1,0,0,0,1
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,2br VACATIONapartment,0,107.06326563,0,False,0,6,0,0,0.0,0,1,0,10.36506832,0,1,$90,0,0,0,1,1,0,1,Haiphong,$90,0,0,1,0,1,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,4,1,Near bus station and Vung Tau market,0,107.08832129999996,0,False,0,15,0,0,0.0,0,0,0,10.3514706,0,1,$30,0,1,1,1,1,0,0,Haiphong,$30,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,12,1,Modern 135m2 Apartment in Vung Tau,0,107.08947209999997,0,False,0,15,0,0,0.0,0,0,0,10.3521651,0,0,$150,0,1,0,1,1,0,0,Haiphong,$150,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,1,0,Apartment,0,0,0,0,10,1,Two Bedroom Melody Apartment with seaview A17-8,0,107.08493637,1,True,0,25,1,0,0.0,0,1,0,10.33481834,0,1,$50,0,0,1,1,1,0,1,Haiphong,$50,0,1,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,20,0,Penthouse 300m2 Sea-View w Beach near by,0,107.11514701,0,True,0,27,0,0,0.0,0,0,0,10.39264242,0,0,$256,0,0,0,1,1,0,0,Haiphong,$256,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,16,0,Nice Villa in Vung Tau Vietnam for holid,0,107.0653231,0,False,0,27,0,0,0.0,0,0,0,10.3530661,0,0,$710,0,0,0,0,1,0,0,Haiphong,$710,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Villa,0,0,0,0,1,0,SEAVIEW POOL VILLA 2,0,107.06880378,0,False,0,41,0,0,0.0,0,0,0,10.35014346,0,0,$350,0,0,1,1,1,0,0,Haiphong,$350,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0,Apartment,0,0,0,0,10,1,Condotel Vung Tau - 2 bed room,0,107.08634991,0,True,0,18,0,0,0.0,0,0,0,10.32802764,0,0,$42,0,1,0,1,1,0,0,Haiphong,$42,0,0,1,0,0,0,0
